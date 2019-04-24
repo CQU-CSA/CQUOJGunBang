@@ -7,6 +7,8 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 
+from NameToId import NameToId
+
 chromePath = './chromedriver'
 url = 'http://acm.cqu.edu.cn/contest_show.php?cid=243#status'
 arrans=[]
@@ -58,6 +60,52 @@ while True:
     buttun=driver.find_element_by_class_name('next')
     buttun.find_element_by_tag_name('a').click()
     time.sleep(1)
-print(len(arrans))
-root=ET.Elements('contest')
+
+
+rMap={
+    'Accepted':'AC',
+    'Wrong Answer':'WA',
+    'Compile Error':'CE',
+    'Time Limit Exceed':'TLE',
+    'Runtime Error':'RE',
+    'Memory Limit Exceed':'MLE',
+    'Output Limit Exceed':'OLE',
+    'Presentation Error':'PE',
+    'Restricted Function':'RF'
+}
+
+statime=1527397200
+
+len1=len(arrans)
+len2=9
+print(len1)
+root=ET.Element('contest')
+for i in range(len1):
+    if i%9==0:
+        a=ET.SubElement(root,'run')
+        ET.SubElement(a,'team').text=NameToId(arrans[i])
+    elif i%9==1:
+        ET.SubElement(a,'id').text=arrans[i]
+    elif i%9==2:
+        ET.SubElement(a,'problem').text=str(ord(arrans[i])-ord('A')+1)
+    elif i%9==3:
+        ET.SubElement(a,'result').text=rMap[arrans[i]]
+        ET.SubElement(a,'judged').text='true'
+        ET.SubElement(a,'solved').text='true' if rMap[arrans[i]]=='AC' else 'false'
+        ET.SubElement(a,'penalty').text='false' if rMap[arrans[i]]=='AC' else 'true'
+    elif i%9==4:
+        ET.SubElement(a,'language').text=arrans[i]
+    elif i%9==5:
+        pass
+    elif i%9==6:
+        pass
+    elif i%9==7:
+        ET.SubElement(a,'status').text='done'
+    elif i%9==8:
+        timearr=time.strptime(arrans[i], "%Y-%m-%d %H:%M:%S")
+        ET.SubElement(a,'time').text=str(int(time.mktime(timearr))-statime)
+        ET.SubElement(a,'timestamp').text=str(int(time.mktime(timearr)))
+
+tree = ET.ElementTree(root)
+tree.write("run.xml")
 driver.close()

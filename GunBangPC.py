@@ -1,4 +1,5 @@
 #python 3.7
+# -*- coding: UTF-8 -*-
 
 import re
 import time
@@ -6,13 +7,18 @@ import datetime
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
+import sys
 
 from NameToId import NameToId
 
 chromePath = './chromedriver'
 url = 'http://acm.cqu.edu.cn/contest_show.php?cid=243#status'
 arrans=[]
+statime=1527397200
 
+if len(sys.argv):
+    url=sys.argv[-1]
+    statime=int(sys.argv[-2])
 
 driver = webdriver.Chrome(chromePath)
 driver.get(url)
@@ -74,11 +80,10 @@ rMap={
     'Restricted Function':'RF'
 }
 
-statime=1527397200
-
 len1=len(arrans)
 len2=9
-print(len1)
+print('数据量：{0}'.format(len1))
+
 root=ET.Element('contest')
 for i in range(len1):
     if i%9==0:

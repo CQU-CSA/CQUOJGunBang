@@ -14,12 +14,20 @@ from NameToId import NameToId
 chromePath = './chromedriver'
 url = 'http://acm.cqu.edu.cn/contest_show.php?cid=243#status'
 arrans=[]
-statime=1527397200
+statimestr='2018-05-27 13:00:00'
+statime=0
 
-if len(sys.argv):
+if len(sys.argv)>1:
     url=sys.argv[-1]
-    statime=int(sys.argv[-2])
+    statimearr=sys.argv[-2]
 
+#开始数据时间戳初始化
+timearr=time.strptime(statimestr, "%Y-%m-%d %H:%M:%S")
+statime=int(time.mktime(timearr))
+
+print('开始时间戳{0}'.format(statime))
+
+#打开谷歌浏览器
 driver = webdriver.Chrome(chromePath)
 driver.get(url)
 #等待网页打开
@@ -65,7 +73,7 @@ while True:
         break
     buttun=driver.find_element_by_class_name('next')
     buttun.find_element_by_tag_name('a').click()
-    time.sleep(1)
+    #time.sleep(1)
 
 
 rMap={
@@ -112,5 +120,5 @@ for i in range(len1):
         ET.SubElement(a,'timestamp').text=str(int(time.mktime(timearr)))
 
 tree = ET.ElementTree(root)
-tree.write("run.xml")
+tree.write("runPC.xml")
 driver.close()

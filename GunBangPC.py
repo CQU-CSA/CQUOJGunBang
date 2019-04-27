@@ -14,7 +14,7 @@ from NameToId import NameToId
 chromePath = './chromedriver'
 url = 'http://acm.cqu.edu.cn/contest_show.php?cid=287#status'
 arrans=[]
-statimestr='2018-05-27 13:00:00'
+statimestr='2019-04-28 14:00:00'
 statime=0
 
 if len(sys.argv)>1:
@@ -50,7 +50,7 @@ password = driver.find_element_by_id('password')
 password.send_keys('ATfCRtbr')
 time.sleep(0.5)
 login=driver.find_element_by_id('logindialog')
-login.find_element_by_name('login')
+login=login.find_element_by_name('login')
 login.click()
 while True:
     #获取网页

@@ -12,7 +12,7 @@ import sys
 from NameToId import NameToId
 
 chromePath = './chromedriver'
-url = 'http://acm.cqu.edu.cn/contest_show.php?cid=243#status'
+url = 'http://acm.cqu.edu.cn/contest_show.php?cid=287#status'
 arrans=[]
 statime=1527397200
 
@@ -24,6 +24,26 @@ driver = webdriver.Chrome(chromePath)
 driver.get(url)
 #等待网页打开
 time.sleep(1)
+#登陆
+mens =driver.find_element_by_class_name('btn-navbar')
+try:
+    mens.click()
+except:
+    pass
+time.sleep(0.5)
+login=driver.find_element_by_id('loginbutton')
+login=login.find_element_by_tag_name('a')
+login.click()
+time.sleep(0.5)
+username = driver.find_element_by_id('username')
+username.send_keys('cqupc19_150')
+time.sleep(0.5)
+password = driver.find_element_by_id('password')
+password.send_keys('ATfCRtbr')
+time.sleep(0.5)
+login=driver.find_element_by_id('logindialog')
+login.find_element_by_name('login')
+login.click()
 while True:
     #获取网页
     elements = driver.page_source

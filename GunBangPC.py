@@ -8,6 +8,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 import sys
+import logging
 
 from NameToId import NameToId
 
@@ -16,6 +17,7 @@ url = 'http://acm.cqu.edu.cn/contest_show.php?cid=287#status'
 arrans=[]
 statimestr='2019-04-28 14:00:00'
 statime=0
+logging.basicConfig(filename='GBPC.log',level='DEBUG')
 
 if len(sys.argv)>1:
     url=sys.argv[-1]
@@ -94,7 +96,7 @@ while True:
         break
     buttun=driver.find_element_by_class_name('next')
     buttun.find_element_by_tag_name('a').click()
-    #time.sleep(1)
+    time.sleep(0.5)
 
 
 rMap={
@@ -111,6 +113,7 @@ rMap={
 
 len1=len(arrans)
 len2=9
+runid=len1/len2
 print('数据量：{0}'.format(len1))
 
 root=ET.Element('contest')
@@ -118,8 +121,11 @@ for i in range(len1):
     if i%9==0:
         a=ET.SubElement(root,'run')
         ET.SubElement(a,'team').text=NameToId(arrans[i])
+        #logging.debug('runid={0},name={1},nameid={2}'.format(runid,arrans[i],NameToId(arrans[i])))
     elif i%9==1:
-        ET.SubElement(a,'id').text=arrans[i]
+        ET.SubElement(a,'id').text=str(int(runid))
+        #logging.debug(runid)
+        runid=runid-1
     elif i%9==2:
         ET.SubElement(a,'problem').text=str(ord(arrans[i])-ord('A')+1)
     elif i%9==3:

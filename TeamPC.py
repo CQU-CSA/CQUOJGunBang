@@ -40,7 +40,16 @@ login=driver.find_element_by_id('logindialog')
 login=login.find_element_by_name('login')
 login.click()
 time.sleep(4)
-
+settings=driver.find_element_by_id('cset_a')
+settings.click()
+time.sleep(0.5)
+settings=driver.find_element_by_name('shownum')
+settings.click()
+time.sleep(0.5)
+login=driver.find_element_by_id('csetform')
+login=login.find_element_by_name('login')
+login.click()
+time.sleep(0.5)
 #初始化
 nickname=[]
 username=[]

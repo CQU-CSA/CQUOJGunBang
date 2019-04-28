@@ -44,14 +44,15 @@ login=login.find_element_by_tag_name('a')
 login.click()
 time.sleep(0.5)
 username = driver.find_element_by_id('username')
-username.send_keys('cqupc19_150')
+username.send_keys('cqupc19_149')
 time.sleep(0.5)
 password = driver.find_element_by_id('password')
-password.send_keys('ATfCRtbr')
+password.send_keys('AULHPT93')
 time.sleep(0.5)
 login=driver.find_element_by_id('logindialog')
 login=login.find_element_by_name('login')
 login.click()
+time.sleep(4)
 while True:
     #获取网页
     elements = driver.page_source

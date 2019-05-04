@@ -1,0 +1,2174 @@
+---- ICPC Resolver (1.1.0/1058) ----
+OS:  Windows 10 (x86/10.0)
+JRE: Oracle Corporation (1.8.0_181)
+Log started at 2019.05.04 13:43.39
+
+2019.05.04 13:43.39 Launching Resolver with arguments: "acm --info"
+2019.05.04 13:43.39 I clientArgs=''
+2019.05.04 13:43.39 I ######
+2019.05.04 13:43.39 I Initializing resolver object...
+2019.05.04 13:43.39 W Warning: Contest not finalized
+2019.05.04 13:43.39 ---------------
+2019.05.04 13:43.39 First to solve problem A
+	49: WUYAN组
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 First to solve problem B
+	34: OKplus
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 First to solve problem C
+	34: 到此一游
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 First to solve problem D
+	13: kaihei332
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Bronze Medalist, and solving 4 problems in 165 minutes
+	12: 忘拿快递了
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Bronze Medalist, and solving 4 problems in 158 minutes
+	11: 我写代码像蔡徐坤
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Bronze Medalist, and solving 4 problems in 155 minutes
+	10: 服了嗷
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Bronze Medalist, and solving 4 problems in 126 minutes
+	9: 997火葬场
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Silver Medalist, and solving 4 problems in 108 minutes
+	8: 0x5f3769df
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Silver Medalist, and solving 4 problems in 87 minutes
+	7: 张义
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Silver Medalist, and solving 4 problems in 84 minutes
+	6: 划水的小船
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Silver Medalist, and solving 4 problems in 69 minutes
+	5: 孤独老人，单人比赛
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Gold Medalist, and solving 4 problems in 64 minutes
+	4: 指数爆炸队
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Gold Medalist, and solving 4 problems in 56 minutes
+	3: 老年人活动中心
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 Gold Medalist, and solving 4 problems in 43 minutes
+	2: 女队
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 World Champion, Gold Medalist,  Champions, and solving 4 problems in 39 minutes
+	1: 秋名山车队
+2019.05.04 13:43.39 
+2019.05.04 13:43.39 ---------------
+2019.05.04 13:43.39 I Resolving...
+2019.05.04 13:43.39 I medal info: last gold = -1; last silver = -1; last bronze = -1
+2019.05.04 13:43.39 Resolving 473 runs ... 
+2019.05.04 13:43.39 I Resolving row: 103
+2019.05.04 13:43.39 I Resolving row: 102
+2019.05.04 13:43.39 I Resolving row: 101
+2019.05.04 13:43.39 I Resolving row: 100
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 14, 7236000] RunInfo[69, 0]
+2019.05.04 13:43.39 I    Solved. 69 moved from row 100 to row 99
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 9834000] RunInfo[1, 0]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 1, 10258000] RunInfo[1, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 99
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 11, 10232000] RunInfo[69, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 9179000] RunInfo[69, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 98
+2019.05.04 13:43.39 I Resolving row: 97
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 4, 8896000] RunInfo[40, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 96
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 22, 10430000] RunInfo[88, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 95
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 18, 8262000] RunInfo[32, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 12, 8385000] RunInfo[32, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 94
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 5, 10564000] RunInfo[98, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 93
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 8118000] RunInfo[111, 0]
+2019.05.04 13:43.39 I    Solved. 111 moved from row 93 to row 60
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 1, 10112000] RunInfo[44, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 7635000] RunInfo[44, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 92
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 10401000] RunInfo[114, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 91
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 7, 10085000] RunInfo[17, 1]
+2019.05.04 13:43.39 I    Solved. 17 moved from row 91 to row 65
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 7604000] RunInfo[45, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 8, 10677000] RunInfo[45, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 4, 8904000] RunInfo[45, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 90
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 13, 8534000] RunInfo[36, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 6, 9877000] RunInfo[36, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 89
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 4, 9904000] RunInfo[104, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 4, 8479000] RunInfo[104, 2]
+2019.05.04 13:43.39 I    Solved. 104 moved from row 89 to row 60
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 1, 9291000] RunInfo[119, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 88
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 8, 9910000] RunInfo[34, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 6, 9792000] RunInfo[34, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 87
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 10, 7835000] RunInfo[46, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 14, 8478000] RunInfo[46, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 86
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 4, 8447000] RunInfo[11, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 1, 9646000] RunInfo[11, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 85
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 8, 7817000] RunInfo[61, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 84
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 11, 10702000] RunInfo[115, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 6, 8107000] RunInfo[115, 2]
+2019.05.04 13:43.39 I    Solved. 115 moved from row 84 to row 61
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 10, 9934000] RunInfo[35, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 10, 9517000] RunInfo[35, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 8849000] RunInfo[35, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 83
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 5, 8450000] RunInfo[107, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 5, 10779000] RunInfo[107, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 82
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 9, 8301000] RunInfo[109, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 81
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 4, 10424000] RunInfo[48, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 10777000] RunInfo[48, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 80
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 7857000] RunInfo[25, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 10333000] RunInfo[25, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 79
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 22, 10776000] RunInfo[101, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 7, 7389000] RunInfo[101, 2]
+2019.05.04 13:43.39 I    Solved. 101 moved from row 79 to row 60
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 7644000] RunInfo[95, 2]
+2019.05.04 13:43.39 I    Solved. 95 moved from row 79 to row 56
+2019.05.04 13:43.39 I Resolving row: 78
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 14, 10192000] RunInfo[27, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 7448000] RunInfo[27, 2]
+2019.05.04 13:43.39 I    Solved. 27 moved from row 78 to row 56
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 18, 10715000] RunInfo[5, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 13, 9543000] RunInfo[5, 2]
+2019.05.04 13:43.39 I    Solved. 5 moved from row 78 to row 72
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 6, 10663000] RunInfo[14, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 5, 9980000] RunInfo[14, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 77
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 18, 9544000] RunInfo[2, 1]
+2019.05.04 13:43.39 I    Solved. 2 moved from row 77 to row 74
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 11, 7978000] RunInfo[26, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 76
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 27, 9444000] RunInfo[72, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 12, 9535000] RunInfo[72, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 75
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 19, 7829000] RunInfo[79, 1]
+2019.05.04 13:43.39 I    Solved. 79 moved from row 75 to row 74
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 9, 10716000] RunInfo[2, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 74
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 13, 8877000] RunInfo[79, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 73
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 21, 9804000] RunInfo[23, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 7, 9760000] RunInfo[23, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 72
+2019.05.04 13:43.39 I Resolving row: 71
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 33, 10039000] RunInfo[43, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 9896000] RunInfo[43, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 70
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 11, 10688000] RunInfo[17, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 1, 9195000] RunInfo[17, 3]
+2019.05.04 13:43.39 I    Solved. 17 moved from row 70 to row 40
+2019.05.04 13:43.39 I Resolving row: 69
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 8, 8851000] RunInfo[105, 2]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 68
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 22, 8128000] RunInfo[67, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 67
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 20, 8073000] RunInfo[30, 1]
+2019.05.04 13:43.39 I    Solved. 30 moved from row 67 to row 41
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 10624000] RunInfo[111, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Award at row: 67 111
+2019.05.04 13:43.39 I Resolving row: 66
+2019.05.04 13:43.39 I Resolving row: 65
+2019.05.04 13:43.39 I Resolving row: 64
+2019.05.04 13:43.39 I Resolving row: 63
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 10, 10551000] RunInfo[13, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 62
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 10, 8126000] RunInfo[103, 2]
+2019.05.04 13:43.39 I    Solved. 103 moved from row 62 to row 41
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 37, 10475000] RunInfo[54, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 61
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 7, 8680000] RunInfo[91, 2]
+2019.05.04 13:43.39 I    Solved. 91 moved from row 61 to row 39
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 50, 10634000] RunInfo[95, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 60
+2019.05.04 13:43.39 I Resolving row: 59
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 8, 8286000] RunInfo[80, 1]
+2019.05.04 13:43.39 I    Solved. 80 moved from row 59 to row 40
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 9704000] RunInfo[29, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 58
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 6, 8971000] RunInfo[87, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 57
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 24, 10766000] RunInfo[47, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 10363000] RunInfo[47, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 56
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 11, 10698000] RunInfo[6, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 9447000] RunInfo[6, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 55
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 12, 10671000] RunInfo[75, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 7885000] RunInfo[75, 3]
+2019.05.04 13:43.39 I    Solved. 75 moved from row 55 to row 34
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 17, 9389000] RunInfo[99, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 7, 10582000] RunInfo[99, 2]
+2019.05.04 13:43.39 I    Solved. 99 moved from row 55 to row 40
+2019.05.04 13:43.39 I Resolving row: 54
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 18, 10586000] RunInfo[81, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 6, 10197000] RunInfo[81, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 53
+2019.05.04 13:43.39 I Resolving row: 52
+2019.05.04 13:43.39 I Resolving row: 51
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 27, 9266000] RunInfo[56, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 7, 8379000] RunInfo[56, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 50
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 21, 9839000] RunInfo[76, 1]
+2019.05.04 13:43.39 I    Solved. 76 moved from row 50 to row 46
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 9, 10699000] RunInfo[90, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 10, 10759000] RunInfo[90, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 49
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 4, 8607000] RunInfo[33, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 48
+2019.05.04 13:43.39 I Resolving row: 47
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 4, 9135000] RunInfo[30, 3]
+2019.05.04 13:43.39 I    Solved. 30 moved from row 47 to row 25
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 9097000] RunInfo[76, 3]
+2019.05.04 13:43.39 I    Solved. 76 moved from row 47 to row 25
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 8058000] RunInfo[103, 3]
+2019.05.04 13:43.39 I    Solved. 103 moved from row 47 to row 25
+2019.05.04 13:43.39 I Award at row: 47 17
+2019.05.04 13:43.39 I Resolving row: 46
+2019.05.04 13:43.39 I Resolving row: 45
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 9810000] RunInfo[80, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 44
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 10755000] RunInfo[91, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 43
+2019.05.04 13:43.39 I Award at row: 43 99
+2019.05.04 13:43.39 I Resolving row: 42
+2019.05.04 13:43.39 I Resolving row: 41
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 1, 8961000] RunInfo[113, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 40
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 3, 9509000] RunInfo[93, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 39
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 17, 10680000] RunInfo[7, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 38
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 10346000] RunInfo[52, 3]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 37
+2019.05.04 13:43.39 I Resolving row: 36
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 1, 7890000] RunInfo[21, 3]
+2019.05.04 13:43.39 I    Solved. 21 moved from row 36 to row 24
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 2, 9205000] RunInfo[112, 3]
+2019.05.04 13:43.39 I    Solved. 112 moved from row 36 to row 25
+2019.05.04 13:43.39 I Resolving row: 35
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 23, 9644000] RunInfo[108, 1]
+2019.05.04 13:43.39 I    Not solved, no change
+2019.05.04 13:43.39 I Resolving row: 34
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 8, 7751000] RunInfo[78, 2]
+2019.05.04 13:43.39 I    Solved. 78 moved from row 34 to row 27
+2019.05.04 13:43.39 I Resolving row: 33
+2019.05.04 13:43.39 I Resolving row: 32
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 7, 8205000] RunInfo[82, 1]
+2019.05.04 13:43.39 I    Solved. 82 moved from row 32 to row 27
+2019.05.04 13:43.39 I Resolving: Result [SUBMITTED, 12, 7935000] RunInfo[92, 1]
+2019.05.04 13:43.39 I    Solved. 92 moved from row 32 to row 29
+2019.05.04 13:43.39 I Resolving row: 31
+2019.05.04 13:43.39 I Resolving row: 30
+2019.05.04 13:43.39 I Resolving row: 29
+2019.05.04 13:43.39 I Resolving row: 28
+2019.05.04 13:43.39 I Resolving row: 27
+2019.05.04 13:43.39 I Resolving row: 26
+2019.05.04 13:43.39 I Resolving row: 25
+2019.05.04 13:43.39 I Award at row: 25 112
+2019.05.04 13:43.39 I Resolving row: 24
+2019.05.04 13:43.39 I Resolving row: 23
+2019.05.04 13:43.39 I Resolving row: 22
+2019.05.04 13:43.39 I Resolving row: 21
+2019.05.04 13:43.39 I Resolving row: 20
+2019.05.04 13:43.39 I Resolving row: 19
+2019.05.04 13:43.39 I Resolving row: 18
+2019.05.04 13:43.39 I Resolving row: 17
+2019.05.04 13:43.39 I Resolving row: 16
+2019.05.04 13:43.39 I Resolving row: 15
+2019.05.04 13:43.39 I Resolving row: 14
+2019.05.04 13:43.39 I Resolving row: 13
+2019.05.04 13:43.39 I Resolving row: 12
+2019.05.04 13:43.39 I Resolving row: 11
+2019.05.04 13:43.39 I Award at row: 11 50
+2019.05.04 13:43.39 I Resolving row: 10
+2019.05.04 13:43.39 I Award at row: 10 58
+2019.05.04 13:43.39 I Resolving row: 9
+2019.05.04 13:43.39 I Award at row: 9 96
+2019.05.04 13:43.39 I Resolving row: 8
+2019.05.04 13:43.39 I Award at row: 8 49
+2019.05.04 13:43.39 I Resolving row: 7
+2019.05.04 13:43.39 I Award at row: 7 31
+2019.05.04 13:43.39 I Resolving row: 6
+2019.05.04 13:43.39 I Award at row: 6 4
+2019.05.04 13:43.39 I Resolving row: 5
+2019.05.04 13:43.39 I Award at row: 5 22
+2019.05.04 13:43.39 I Resolving row: 4
+2019.05.04 13:43.39 I Award at row: 4 55
+2019.05.04 13:43.39 I Resolving row: 3
+2019.05.04 13:43.39 I Award at row: 3 53
+2019.05.04 13:43.39 I Resolving row: 2
+2019.05.04 13:43.39 I Award at row: 2 84
+2019.05.04 13:43.39 I Resolving row: 1
+2019.05.04 13:43.39 I Award at row: 1 19
+2019.05.04 13:43.39 I Resolving row: 0
+2019.05.04 13:43.39 I Award at row: 0 8
+2019.05.04 13:43.39 Done resolving
+2019.05.04 13:43.39 I Resolution steps:
+2019.05.04 13:43.39 I   Pause 0
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Select team null
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Pause 1
+2019.05.04 13:43.39 I   Scroll 93
+2019.05.04 13:43.39 I   Pause 2
+2019.05.04 13:43.39 I   Select team 118: 白给
+2019.05.04 13:43.39 I   Pause 3
+2019.05.04 13:43.39 I   Scroll 93
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 92
+2019.05.04 13:43.39 I   Select team 18: 我欲成仙，你说对不队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 91
+2019.05.04 13:43.39 I   Select team 77: 我就是来水
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 90
+2019.05.04 13:43.39 I   Select team 69: 吴骊楠
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 0 for team 69
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 1: y20
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 0 for team 1
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 1
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 89
+2019.05.04 13:43.39 I   Select team 69: 吴骊楠
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 69
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 69
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 88
+2019.05.04 13:43.39 I   Select team 71: 对8
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 87
+2019.05.04 13:43.39 I   Select team 40: 疯火轮
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 40
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 86
+2019.05.04 13:43.39 I   Select team 88: 新秀酸菜鱼
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 88
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 85
+2019.05.04 13:43.39 I   Select team 32: 渣男队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 32
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 32
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 84
+2019.05.04 13:43.39 I   Select team 98: 怎么编都队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 98
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 83
+2019.05.04 13:43.39 I   Select team 111: WUYAN组
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 0 for team 111
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 44: (●—●)
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 44
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 44
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 82
+2019.05.04 13:43.39 I   Select team 114: 随便吧
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 114
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 81
+2019.05.04 13:43.39 I   Select team 17: OKplus
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 17
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 45: 陈邦闻队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 45
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 45
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 45
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 80
+2019.05.04 13:43.39 I   Select team 36: 曹老板队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 36
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 36
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 79
+2019.05.04 13:43.39 I   Select team 104: Youzi
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 104
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 104
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 119: 那个队伍
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 119
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 78
+2019.05.04 13:43.39 I   Select team 34: 香菜牛肉
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 34
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 34
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 77
+2019.05.04 13:43.39 I   Select team 46: 诗与远方
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 46
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 46
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 76
+2019.05.04 13:43.39 I   Select team 11: 挚友说的都队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 11
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 11
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 75
+2019.05.04 13:43.39 I   Select team 61: 姑姑，请叫我过儿
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 61
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 74
+2019.05.04 13:43.39 I   Select team 115: 全都会做
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 115
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 115
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 35: 牛肉香菜
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 35
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 35
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 35
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 73
+2019.05.04 13:43.39 I   Select team 107: vegetable
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 107
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 107
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 72
+2019.05.04 13:43.39 I   Select team 109: 一轮游
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 109
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 71
+2019.05.04 13:43.39 I   Select team 48: 不知怎么程序一下过了队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 48
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 48
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 70
+2019.05.04 13:43.39 I   Select team 25: 全员饿人
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 25
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 25
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 69
+2019.05.04 13:43.39 I   Select team 101: 清晨
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 101
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 101
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 95: 只会乱搞队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 95
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 94: 007.icu
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 68
+2019.05.04 13:43.39 I   Select team 27: 这题怎么都做不队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 27
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 27
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 5: MathEW
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 5
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 5
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 14: 996与404
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 14
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 14
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 67
+2019.05.04 13:43.39 I   Select team 2: 蛇了啊兄弟萌
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 2
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 26: 小白兔
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 26
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 66
+2019.05.04 13:43.39 I   Select team 72: ICAC—C组
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 72
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 72
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 65
+2019.05.04 13:43.39 I   Select team 79: 沉迷小姐姐
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 79
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 2: 蛇了啊兄弟萌
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 2
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 64
+2019.05.04 13:43.39 I   Select team 79: 沉迷小姐姐
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 79
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 63
+2019.05.04 13:43.39 I   Select team 23: 队名？
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 23
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 23
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 62
+2019.05.04 13:43.39 I   Select team 5: MathEW
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 61
+2019.05.04 13:43.39 I   Select team 43: 410
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 43
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 43
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 60
+2019.05.04 13:43.39 I   Select team 17: OKplus
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 17
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 17
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 126: 三叶草
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 59
+2019.05.04 13:43.39 I   Select team 105: CXK帮我看看代码对不队2对
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 105
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 58
+2019.05.04 13:43.39 I   Select team 67: bulibulo
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 67
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 57
+2019.05.04 13:43.39 I   Select team 30: No warning No error
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 30
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 111: WUYAN组
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 111
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 111: WUYAN组
+2019.05.04 13:43.39 I   Pause 4
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 5
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 6
+2019.05.04 13:43.39 I   Scroll 56
+2019.05.04 13:43.39 I   Select team 115: 全都会做
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 55
+2019.05.04 13:43.39 I   Select team 104: Youzi
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 54
+2019.05.04 13:43.39 I   Select team 101: 清晨
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 53
+2019.05.04 13:43.39 I   Select team 13: 又英俊又帅气又强
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 13
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 52
+2019.05.04 13:43.39 I   Select team 103: 分母++
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 103
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 54: 泉力以赴
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 54
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 51
+2019.05.04 13:43.39 I   Select team 91: AC队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 91
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 95: 只会乱搞队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 95
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 50
+2019.05.04 13:43.39 I   Select team 27: 这题怎么都做不队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 49
+2019.05.04 13:43.39 I   Select team 80: 大树生气地说
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 80
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 29: 0 error 0 warning
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 29
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 48
+2019.05.04 13:43.39 I   Select team 87: 大碗细面
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 87
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 47
+2019.05.04 13:43.39 I   Select team 47: 996.ICU
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 47
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 47
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 46
+2019.05.04 13:43.39 I   Select team 6: 代码爱好者联盟
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 6
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 6
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 45
+2019.05.04 13:43.39 I   Select team 75: 只有一个队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 75
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 75
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 99: 到此一游
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 99
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 2 for team 99
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 64: 三年参赛，两年垫底
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 44
+2019.05.04 13:43.39 I   Select team 81: 软院第一带头冲
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 81
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 81
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 43
+2019.05.04 13:43.39 I   Select team 20: 诸位请赐教
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 42
+2019.05.04 13:43.39 I   Select team 68: 我想拿个纪念品
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 41
+2019.05.04 13:43.39 I   Select team 56: ?????
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 56
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 56
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 40
+2019.05.04 13:43.39 I   Select team 76: 彭彪
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 76
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 90: 键值队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 90
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select run 3 for team 90
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 39
+2019.05.04 13:43.39 I   Select team 33: 梦之队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 33
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 38
+2019.05.04 13:43.39 I   Select team 89: 游戏玩不好编程也不会
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 37
+2019.05.04 13:43.39 I   Select team 30: No warning No error
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 30
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 76: 彭彪
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 76
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 103: 分母++
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 103
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 17: OKplus
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 17: OKplus
+2019.05.04 13:43.39 I   Pause 7
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 8
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 9
+2019.05.04 13:43.39 I   Scroll 36
+2019.05.04 13:43.39 I   Select team 24: Anscor
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 35
+2019.05.04 13:43.39 I   Select team 80: 大树生气地说
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 80
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 34
+2019.05.04 13:43.39 I   Select team 91: AC队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 91
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 33
+2019.05.04 13:43.39 I   Select team 99: 到此一游
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 99: 到此一游
+2019.05.04 13:43.39 I   Pause 10
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 11
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 12
+2019.05.04 13:43.39 I   Scroll 32
+2019.05.04 13:43.39 I   Select team 116: 滑动解锁
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 31
+2019.05.04 13:43.39 I   Select team 113: dzzhyk
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 113
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 30
+2019.05.04 13:43.39 I   Select team 93: 打完酱油吃完大碗宽面继续划水队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 93
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 29
+2019.05.04 13:43.39 I   Select team 7: 三人行
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 7
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 28
+2019.05.04 13:43.39 I   Select team 52: 程序设计小分队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 52
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 27
+2019.05.04 13:43.39 I   Select team 75: 只有一个队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 26
+2019.05.04 13:43.39 I   Select team 21: 蒸的菜
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 21
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 112: kaihei332
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 3 for team 112
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 125: 开局cxk代码全靠编
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 25
+2019.05.04 13:43.39 I   Select team 108: 你好菜啊
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 108
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay FAILED
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Scroll 24
+2019.05.04 13:43.39 I   Select team 78: 快乐摇摇
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 2 for team 78
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 60: 队长说的都队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 23
+2019.05.04 13:43.39 I   Select team 106: 一小时爆零后就去看复联4队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 22
+2019.05.04 13:43.39 I   Select team 82: 鸡你太美
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 82
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 92: 没有名字
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select run 1 for team 92
+2019.05.04 13:43.39 I   Delay SELECT_RUN
+2019.05.04 13:43.39 I   Contest state
+2019.05.04 13:43.39 I   Delay SOLVED_MOVE
+2019.05.04 13:43.39 I   Select run null
+2019.05.04 13:43.39 I   Delay DESELECT
+2019.05.04 13:43.39 I   Select team 30: No warning No error
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 21
+2019.05.04 13:43.39 I   Select team 76: 彭彪
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 20
+2019.05.04 13:43.39 I   Select team 103: 分母++
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 19
+2019.05.04 13:43.39 I   Select team 92: 没有名字
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 18
+2019.05.04 13:43.39 I   Select team 78: 快乐摇摇
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 17
+2019.05.04 13:43.39 I   Select team 82: 鸡你太美
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 16
+2019.05.04 13:43.39 I   Select team 42: 纯净水
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 15
+2019.05.04 13:43.39 I   Select team 112: kaihei332
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 112: kaihei332
+2019.05.04 13:43.39 I   Pause 13
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 14
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 15
+2019.05.04 13:43.39 I   Scroll 14
+2019.05.04 13:43.39 I   Select team 21: 蒸的菜
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 13
+2019.05.04 13:43.39 I   Select team 41: 北洋水师
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 12
+2019.05.04 13:43.39 I   Select team 38: AC养老队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 11
+2019.05.04 13:43.39 I   Select team 124: I love you three thousand
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 10
+2019.05.04 13:43.39 I   Select team 83: 爱学习
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 9
+2019.05.04 13:43.39 I   Select team 16: α·Pav
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 8
+2019.05.04 13:43.39 I   Select team 9: 儿童戏水区
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 7
+2019.05.04 13:43.39 I   Select team 97: 你说的都队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 6
+2019.05.04 13:43.39 I   Select team 3: 女奻姦
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 5
+2019.05.04 13:43.39 I   Select team 70: 赛尔号
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 4
+2019.05.04 13:43.39 I   Select team 127: 竹园五栋319
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 3
+2019.05.04 13:43.39 I   Select team 117: 犇除以零
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 2
+2019.05.04 13:43.39 I   Select team 59: 恭喜以上队伍获得本次大赛所有奖品
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Scroll 1
+2019.05.04 13:43.39 I   Select team 50: 忘拿快递了
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 50: 忘拿快递了
+2019.05.04 13:43.39 I   Pause 16
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 17
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 18
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 58: 我写代码像蔡徐坤
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 58: 我写代码像蔡徐坤
+2019.05.04 13:43.39 I   Pause 19
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 20
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 21
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 96: 服了嗷
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 96: 服了嗷
+2019.05.04 13:43.39 I   Pause 22
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 23
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 24
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 49: 997火葬场
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 49: 997火葬场
+2019.05.04 13:43.39 I   Pause 25
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 26
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 27
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 31: 0x5f3769df
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 31: 0x5f3769df
+2019.05.04 13:43.39 I   Pause 28
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 29
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 30
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 4: 张义
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 4: 张义
+2019.05.04 13:43.39 I   Pause 31
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 32
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 33
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 22: 划水的小船
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 22: 划水的小船
+2019.05.04 13:43.39 I   Pause 34
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 35
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 36
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 55: 孤独老人，单人比赛
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 55: 孤独老人，单人比赛
+2019.05.04 13:43.39 I   Pause 37
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 38
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 39
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 53: 指数爆炸队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 53: 指数爆炸队
+2019.05.04 13:43.39 I   Pause 40
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 41
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 42
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 84: 老年人活动中心
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 84: 老年人活动中心
+2019.05.04 13:43.39 I   Pause 43
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 44
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 45
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 19: 女队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 19: 女队
+2019.05.04 13:43.39 I   Pause 46
+2019.05.04 13:43.39 I   Award 1
+2019.05.04 13:43.39 I   Pause 47
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 48
+2019.05.04 13:43.39 I   Scroll 0
+2019.05.04 13:43.39 I   Select team 8: 秋名山车队
+2019.05.04 13:43.39 I   Delay SELECT_ROW
+2019.05.04 13:43.39 I   Select team 8: 秋名山车队
+2019.05.04 13:43.39 I   Pause 49
+2019.05.04 13:43.39 I   Award 3
+2019.05.04 13:43.39 I   Pause 50
+2019.05.04 13:43.39 I   Award (none)
+2019.05.04 13:43.39 I   Pause 51
+2019.05.04 13:43.39 I   Select team null
+2019.05.04 13:43.39 I   Pause 52
+2019.05.04 13:43.39   Playback time: 7m 39s
+2019.05.04 13:43.39   Total pauses: 53
+2019.05.04 13:43.39 I   Contest states: 108
+2019.05.04 13:43.39 I   Total steps: 1116
+2019.05.04 13:43.39 I   Time to resolve: 167ms
+2019.05.04 13:43.40 I No logo found for team 111: acm\images\logo\111.png (系统找不到指定的文件。)
+2019.05.04 13:43.40 I No image found for team 111: acm\images\team\111.jpg (系统找不到指定的文件。)
+2019.05.04 13:43.40 I No logo found for team 17: acm\images\logo\17.png (系统找不到指定的文件。)
+2019.05.04 13:43.40 I No image found for team 17: acm\images\team\17.jpg (系统找不到指定的文件。)
+2019.05.04 13:43.40 I No logo found for team 99: acm\images\logo\99.png (系统找不到指定的文件。)
+2019.05.04 13:43.40 I No image found for team 99: acm\images\team\99.jpg (系统找不到指定的文件。)
+2019.05.04 13:43.42 I 
+**Action: FORWARD from 0**
+2019.05.04 13:43.42 I Step 1 > Contest state
+2019.05.04 13:43.42 I Step 2 > Select team null
+2019.05.04 13:43.42 I Step 3 > Select run null
+2019.05.04 13:43.42 I Step 4 > Award (none)
+2019.05.04 13:43.42 I Step 5 > Scroll 0
+2019.05.04 13:43.42 I Step 6 > Pause 1
+2019.05.04 13:43.42 I **Paused at 1**
+2019.05.04 13:43.42 I No logo found for team 8: acm\images\logo\8.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 19: acm\images\logo\19.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 84: acm\images\logo\84.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 53: acm\images\logo\53.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 55: acm\images\logo\55.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 22: acm\images\logo\22.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 4: acm\images\logo\4.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 31: acm\images\logo\31.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 49: acm\images\logo\49.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 96: acm\images\logo\96.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 58: acm\images\logo\58.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 50: acm\images\logo\50.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 59: acm\images\logo\59.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 117: acm\images\logo\117.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 127: acm\images\logo\127.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 70: acm\images\logo\70.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 3: acm\images\logo\3.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 97: acm\images\logo\97.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 9: acm\images\logo\9.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 16: acm\images\logo\16.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 83: acm\images\logo\83.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 124: acm\images\logo\124.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 38: acm\images\logo\38.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 41: acm\images\logo\41.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 21: acm\images\logo\21.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 112: acm\images\logo\112.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 42: acm\images\logo\42.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 82: acm\images\logo\82.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 78: acm\images\logo\78.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 92: acm\images\logo\92.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 103: acm\images\logo\103.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 76: acm\images\logo\76.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 30: acm\images\logo\30.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 106: acm\images\logo\106.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 60: acm\images\logo\60.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 108: acm\images\logo\108.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 125: acm\images\logo\125.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 75: acm\images\logo\75.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 52: acm\images\logo\52.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 7: acm\images\logo\7.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 93: acm\images\logo\93.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 113: acm\images\logo\113.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 116: acm\images\logo\116.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 91: acm\images\logo\91.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 80: acm\images\logo\80.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 24: acm\images\logo\24.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 89: acm\images\logo\89.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 33: acm\images\logo\33.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 90: acm\images\logo\90.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 56: acm\images\logo\56.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 68: acm\images\logo\68.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 20: acm\images\logo\20.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 81: acm\images\logo\81.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 64: acm\images\logo\64.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 6: acm\images\logo\6.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 47: acm\images\logo\47.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 87: acm\images\logo\87.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 29: acm\images\logo\29.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 27: acm\images\logo\27.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 95: acm\images\logo\95.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 54: acm\images\logo\54.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 13: acm\images\logo\13.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 101: acm\images\logo\101.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 104: acm\images\logo\104.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 115: acm\images\logo\115.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 67: acm\images\logo\67.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 105: acm\images\logo\105.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 126: acm\images\logo\126.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 43: acm\images\logo\43.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 5: acm\images\logo\5.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 23: acm\images\logo\23.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 79: acm\images\logo\79.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 2: acm\images\logo\2.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 72: acm\images\logo\72.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 26: acm\images\logo\26.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 14: acm\images\logo\14.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 94: acm\images\logo\94.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 25: acm\images\logo\25.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 48: acm\images\logo\48.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 109: acm\images\logo\109.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 107: acm\images\logo\107.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 35: acm\images\logo\35.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 61: acm\images\logo\61.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 11: acm\images\logo\11.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 46: acm\images\logo\46.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 34: acm\images\logo\34.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 119: acm\images\logo\119.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 36: acm\images\logo\36.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 45: acm\images\logo\45.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 114: acm\images\logo\114.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 44: acm\images\logo\44.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 98: acm\images\logo\98.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 32: acm\images\logo\32.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 88: acm\images\logo\88.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 40: acm\images\logo\40.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 71: acm\images\logo\71.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 69: acm\images\logo\69.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 1: acm\images\logo\1.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 18: acm\images\logo\18.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 77: acm\images\logo\77.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I No logo found for team 118: acm\images\logo\118.png (系统找不到指定的文件。)
+2019.05.04 13:43.42 I Projections complete
+2019.05.04 13:43.42 I 
+**Action: FORWARD from 1**
+2019.05.04 13:43.42 I Step 7 > Scroll 93
+2019.05.04 13:43.42 I Step 8 > Pause 2
+2019.05.04 13:43.42 I **Paused at 2**
+2019.05.04 13:43.59 I 
+**Action: FORWARD from 2**
+2019.05.04 13:43.59 I Step 9 > Select team 118: 白给
+2019.05.04 13:43.59 I Step 10 > Pause 3
+2019.05.04 13:43.59 I **Paused at 3**
+2019.05.04 13:44.00 I 
+**Action: FORWARD from 3**
+2019.05.04 13:44.00 I Step 11 > Scroll 93
+2019.05.04 13:44.00 I Step 12 > Delay SELECT_ROW
+2019.05.04 13:44.02 I Step 13 > Scroll 92
+2019.05.04 13:44.02 I Step 14 > Select team 18: 我欲成仙，你说对不队
+2019.05.04 13:44.02 I Step 15 > Delay SELECT_ROW
+2019.05.04 13:44.03 I Step 16 > Scroll 91
+2019.05.04 13:44.03 I Step 17 > Select team 77: 我就是来水
+2019.05.04 13:44.03 I Step 18 > Delay SELECT_ROW
+2019.05.04 13:44.05 I Step 19 > Scroll 90
+2019.05.04 13:44.05 I Step 20 > Select team 69: 吴骊楠
+2019.05.04 13:44.05 I Step 21 > Delay SELECT_ROW
+2019.05.04 13:44.06 I Step 22 > Select run 0 for team 69
+2019.05.04 13:44.06 I Step 23 > Delay SELECT_RUN
+2019.05.04 13:44.07 I Step 24 > Contest state
+2019.05.04 13:44.07 I Step 25 > Delay SOLVED_MOVE
+2019.05.04 13:44.09 I Step 26 > Select run null
+2019.05.04 13:44.09 I Step 27 > Delay DESELECT
+2019.05.04 13:44.10 I Step 28 > Select team 1: y20
+2019.05.04 13:44.10 I Step 29 > Delay SELECT_ROW
+2019.05.04 13:44.11 I Step 30 > Select run 0 for team 1
+2019.05.04 13:44.11 I Step 31 > Delay SELECT_RUN
+2019.05.04 13:44.12 I Step 32 > Contest state
+2019.05.04 13:44.12 I Step 33 > Delay FAILED
+2019.05.04 13:44.13 I Step 34 > Select run null
+2019.05.04 13:44.13 I Step 35 > Delay DESELECT
+2019.05.04 13:44.13 I Step 36 > Select run 3 for team 1
+2019.05.04 13:44.13 I Step 37 > Delay SELECT_RUN
+2019.05.04 13:44.14 I Step 38 > Contest state
+2019.05.04 13:44.14 I Step 39 > Delay FAILED
+2019.05.04 13:44.15 I Step 40 > Select run null
+2019.05.04 13:44.15 I Step 41 > Delay DESELECT
+2019.05.04 13:44.15 I Step 42 > Scroll 89
+2019.05.04 13:44.15 I Step 43 > Select team 69: 吴骊楠
+2019.05.04 13:44.15 I Step 44 > Delay SELECT_ROW
+2019.05.04 13:44.17 I Step 45 > Select run 1 for team 69
+2019.05.04 13:44.17 I Step 46 > Delay SELECT_RUN
+2019.05.04 13:44.18 I Step 47 > Contest state
+2019.05.04 13:44.18 I Step 48 > Delay FAILED
+2019.05.04 13:44.19 I Step 49 > Select run null
+2019.05.04 13:44.19 I Step 50 > Delay DESELECT
+2019.05.04 13:44.19 I Step 51 > Select run 2 for team 69
+2019.05.04 13:44.19 I Step 52 > Delay SELECT_RUN
+2019.05.04 13:44.20 I Step 53 > Contest state
+2019.05.04 13:44.20 I Step 54 > Delay FAILED
+2019.05.04 13:44.21 I Step 55 > Select run null
+2019.05.04 13:44.21 I Step 56 > Delay DESELECT
+2019.05.04 13:44.21 I Step 57 > Scroll 88
+2019.05.04 13:44.21 I Step 58 > Select team 71: 对8
+2019.05.04 13:44.21 I Step 59 > Delay SELECT_ROW
+2019.05.04 13:44.23 I Step 60 > Scroll 87
+2019.05.04 13:44.23 I Step 61 > Select team 40: 疯火轮
+2019.05.04 13:44.23 I Step 62 > Delay SELECT_ROW
+2019.05.04 13:44.24 I Step 63 > Select run 2 for team 40
+2019.05.04 13:44.24 I Step 64 > Delay SELECT_RUN
+2019.05.04 13:44.25 I Step 65 > Contest state
+2019.05.04 13:44.25 I Step 66 > Delay FAILED
+2019.05.04 13:44.26 I Step 67 > Select run null
+2019.05.04 13:44.26 I Step 68 > Delay DESELECT
+2019.05.04 13:44.26 I Step 69 > Scroll 86
+2019.05.04 13:44.26 I Step 70 > Select team 88: 新秀酸菜鱼
+2019.05.04 13:44.26 I Step 71 > Delay SELECT_ROW
+2019.05.04 13:44.28 I Step 72 > Select run 2 for team 88
+2019.05.04 13:44.28 I Step 73 > Delay SELECT_RUN
+2019.05.04 13:44.29 I Step 74 > Contest state
+2019.05.04 13:44.29 I Step 75 > Delay FAILED
+2019.05.04 13:44.29 I Step 76 > Select run null
+2019.05.04 13:44.29 I Step 77 > Delay DESELECT
+2019.05.04 13:44.30 I Step 78 > Scroll 85
+2019.05.04 13:44.30 I Step 79 > Select team 32: 渣男队
+2019.05.04 13:44.30 I Step 80 > Delay SELECT_ROW
+2019.05.04 13:44.31 I Step 81 > Select run 1 for team 32
+2019.05.04 13:44.31 I Step 82 > Delay SELECT_RUN
+2019.05.04 13:44.32 I Step 83 > Contest state
+2019.05.04 13:44.32 I Step 84 > Delay FAILED
+2019.05.04 13:44.33 I Step 85 > Select run null
+2019.05.04 13:44.33 I Step 86 > Delay DESELECT
+2019.05.04 13:44.33 I Step 87 > Select run 2 for team 32
+2019.05.04 13:44.33 I Step 88 > Delay SELECT_RUN
+2019.05.04 13:44.34 I Step 89 > Contest state
+2019.05.04 13:44.34 I Step 90 > Delay FAILED
+2019.05.04 13:44.35 I Step 91 > Select run null
+2019.05.04 13:44.35 I Step 92 > Delay DESELECT
+2019.05.04 13:44.35 I Step 93 > Scroll 84
+2019.05.04 13:44.35 I Step 94 > Select team 98: 怎么编都队
+2019.05.04 13:44.35 I Step 95 > Delay SELECT_ROW
+2019.05.04 13:44.37 I Step 96 > Select run 2 for team 98
+2019.05.04 13:44.37 I Step 97 > Delay SELECT_RUN
+2019.05.04 13:44.38 I Step 98 > Contest state
+2019.05.04 13:44.38 I Step 99 > Delay FAILED
+2019.05.04 13:44.39 I Step 100 > Select run null
+2019.05.04 13:44.39 I Step 101 > Delay DESELECT
+2019.05.04 13:44.39 I Step 102 > Scroll 83
+2019.05.04 13:44.39 I Step 103 > Select team 111: WUYAN组
+2019.05.04 13:44.39 I Step 104 > Delay SELECT_ROW
+2019.05.04 13:44.41 I Step 105 > Select run 0 for team 111
+2019.05.04 13:44.41 I Step 106 > Delay SELECT_RUN
+2019.05.04 13:44.42 I Step 107 > Contest state
+2019.05.04 13:44.42 I Step 108 > Delay SOLVED_MOVE
+2019.05.04 13:44.44 I Step 109 > Select run null
+2019.05.04 13:44.44 I Step 110 > Delay DESELECT
+2019.05.04 13:44.44 I Step 111 > Select team 44: (●—●)
+2019.05.04 13:44.44 I Step 112 > Delay SELECT_ROW
+2019.05.04 13:44.46 I Step 113 > Select run 1 for team 44
+2019.05.04 13:44.46 I Step 114 > Delay SELECT_RUN
+2019.05.04 13:44.47 I Step 115 > Contest state
+2019.05.04 13:44.47 I Step 116 > Delay FAILED
+2019.05.04 13:44.47 I Step 117 > Select run null
+2019.05.04 13:44.47 I Step 118 > Delay DESELECT
+2019.05.04 13:44.48 I Step 119 > Select run 2 for team 44
+2019.05.04 13:44.48 I Step 120 > Delay SELECT_RUN
+2019.05.04 13:44.49 I Step 121 > Contest state
+2019.05.04 13:44.49 I Step 122 > Delay FAILED
+2019.05.04 13:44.49 I Step 123 > Select run null
+2019.05.04 13:44.49 I Step 124 > Delay DESELECT
+2019.05.04 13:44.50 I Step 125 > Scroll 82
+2019.05.04 13:44.50 I Step 126 > Select team 114: 随便吧
+2019.05.04 13:44.50 I Step 127 > Delay SELECT_ROW
+2019.05.04 13:44.51 I Step 128 > Select run 1 for team 114
+2019.05.04 13:44.51 I Step 129 > Delay SELECT_RUN
+2019.05.04 13:44.52 I Step 130 > Contest state
+2019.05.04 13:44.52 I Step 131 > Delay FAILED
+2019.05.04 13:44.53 I Step 132 > Select run null
+2019.05.04 13:44.53 I Step 133 > Delay DESELECT
+2019.05.04 13:44.53 I Step 134 > Scroll 81
+2019.05.04 13:44.53 I Step 135 > Select team 17: OKplus
+2019.05.04 13:44.53 I Step 136 > Delay SELECT_ROW
+2019.05.04 13:44.55 I Step 137 > Select run 1 for team 17
+2019.05.04 13:44.55 I Step 138 > Delay SELECT_RUN
+2019.05.04 13:44.56 I Step 139 > Contest state
+2019.05.04 13:44.56 I Step 140 > Delay SOLVED_MOVE
+2019.05.04 13:44.58 I Step 141 > Select run null
+2019.05.04 13:44.58 I Step 142 > Delay DESELECT
+2019.05.04 13:44.58 I Step 143 > Select team 45: 陈邦闻队
+2019.05.04 13:44.58 I Step 144 > Delay SELECT_ROW
+2019.05.04 13:45.00 I Step 145 > Select run 1 for team 45
+2019.05.04 13:45.00 I Step 146 > Delay SELECT_RUN
+2019.05.04 13:45.01 I Step 147 > Contest state
+2019.05.04 13:45.01 I Step 148 > Delay FAILED
+2019.05.04 13:45.02 I Step 149 > Select run null
+2019.05.04 13:45.02 I Step 150 > Delay DESELECT
+2019.05.04 13:45.02 I Step 151 > Select run 2 for team 45
+2019.05.04 13:45.02 I Step 152 > Delay SELECT_RUN
+2019.05.04 13:45.03 I Step 153 > Contest state
+2019.05.04 13:45.03 I Step 154 > Delay FAILED
+2019.05.04 13:45.04 I Step 155 > Select run null
+2019.05.04 13:45.04 I Step 156 > Delay DESELECT
+2019.05.04 13:45.04 I Step 157 > Select run 3 for team 45
+2019.05.04 13:45.04 I Step 158 > Delay SELECT_RUN
+2019.05.04 13:45.05 I Step 159 > Contest state
+2019.05.04 13:45.05 I Step 160 > Delay FAILED
+2019.05.04 13:45.06 I Step 161 > Select run null
+2019.05.04 13:45.06 I Step 162 > Delay DESELECT
+2019.05.04 13:45.06 I Step 163 > Scroll 80
+2019.05.04 13:45.06 I Step 164 > Select team 36: 曹老板队
+2019.05.04 13:45.06 I Step 165 > Delay SELECT_ROW
+2019.05.04 13:45.08 I Step 166 > Select run 1 for team 36
+2019.05.04 13:45.08 I Step 167 > Delay SELECT_RUN
+2019.05.04 13:45.09 I Step 168 > Contest state
+2019.05.04 13:45.09 I Step 169 > Delay FAILED
+2019.05.04 13:45.09 I Step 170 > Select run null
+2019.05.04 13:45.09 I Step 171 > Delay DESELECT
+2019.05.04 13:45.10 I Step 172 > Select run 2 for team 36
+2019.05.04 13:45.10 I Step 173 > Delay SELECT_RUN
+2019.05.04 13:45.11 I Step 174 > Contest state
+2019.05.04 13:45.11 I Step 175 > Delay FAILED
+2019.05.04 13:45.12 I Step 176 > Select run null
+2019.05.04 13:45.12 I Step 177 > Delay DESELECT
+2019.05.04 13:45.12 I Step 178 > Scroll 79
+2019.05.04 13:45.12 I Step 179 > Select team 104: Youzi
+2019.05.04 13:45.12 I Step 180 > Delay SELECT_ROW
+2019.05.04 13:45.13 I Step 181 > Select run 1 for team 104
+2019.05.04 13:45.13 I Step 182 > Delay SELECT_RUN
+2019.05.04 13:45.14 I Step 183 > Contest state
+2019.05.04 13:45.14 I Step 184 > Delay FAILED
+2019.05.04 13:45.15 I Step 185 > Select run null
+2019.05.04 13:45.15 I Step 186 > Delay DESELECT
+2019.05.04 13:45.15 I Step 187 > Select run 2 for team 104
+2019.05.04 13:45.15 I Step 188 > Delay SELECT_RUN
+2019.05.04 13:45.16 I Step 189 > Contest state
+2019.05.04 13:45.16 I Step 190 > Delay SOLVED_MOVE
+2019.05.04 13:45.19 I Step 191 > Select run null
+2019.05.04 13:45.19 I Step 192 > Delay DESELECT
+2019.05.04 13:45.19 I Step 193 > Select team 119: 那个队伍
+2019.05.04 13:45.19 I Step 194 > Delay SELECT_ROW
+2019.05.04 13:45.20 I Step 195 > Select run 2 for team 119
+2019.05.04 13:45.20 I Step 196 > Delay SELECT_RUN
+2019.05.04 13:45.21 I Step 197 > Contest state
+2019.05.04 13:45.21 I Step 198 > Delay FAILED
+2019.05.04 13:45.22 I Step 199 > Select run null
+2019.05.04 13:45.22 I Step 200 > Delay DESELECT
+2019.05.04 13:45.23 I Step 201 > Scroll 78
+2019.05.04 13:45.23 I Step 202 > Select team 34: 香菜牛肉
+2019.05.04 13:45.23 I Step 203 > Delay SELECT_ROW
+2019.05.04 13:45.24 I Step 204 > Select run 1 for team 34
+2019.05.04 13:45.24 I Step 205 > Delay SELECT_RUN
+2019.05.04 13:45.25 I Step 206 > Contest state
+2019.05.04 13:45.25 I Step 207 > Delay FAILED
+2019.05.04 13:45.26 I Step 208 > Select run null
+2019.05.04 13:45.26 I Step 209 > Delay DESELECT
+2019.05.04 13:45.26 I Step 210 > Select run 2 for team 34
+2019.05.04 13:45.26 I Step 211 > Delay SELECT_RUN
+2019.05.04 13:45.27 I Step 212 > Contest state
+2019.05.04 13:45.27 I Step 213 > Delay FAILED
+2019.05.04 13:45.28 I Step 214 > Select run null
+2019.05.04 13:45.28 I Step 215 > Delay DESELECT
+2019.05.04 13:45.28 I Step 216 > Scroll 77
+2019.05.04 13:45.28 I Step 217 > Select team 46: 诗与远方
+2019.05.04 13:45.28 I Step 218 > Delay SELECT_ROW
+2019.05.04 13:45.30 I Step 219 > Select run 1 for team 46
+2019.05.04 13:45.30 I Step 220 > Delay SELECT_RUN
+2019.05.04 13:45.31 I Step 221 > Contest state
+2019.05.04 13:45.31 I Step 222 > Delay FAILED
+2019.05.04 13:45.32 I Step 223 > Select run null
+2019.05.04 13:45.32 I Step 224 > Delay DESELECT
+2019.05.04 13:45.32 I Step 225 > Select run 2 for team 46
+2019.05.04 13:45.32 I Step 226 > Delay SELECT_RUN
+2019.05.04 13:45.33 I Step 227 > Contest state
+2019.05.04 13:45.33 I Step 228 > Delay FAILED
+2019.05.04 13:45.34 I Step 229 > Select run null
+2019.05.04 13:45.34 I Step 230 > Delay DESELECT
+2019.05.04 13:45.34 I Step 231 > Scroll 76
+2019.05.04 13:45.34 I Step 232 > Select team 11: 挚友说的都队
+2019.05.04 13:45.34 I Step 233 > Delay SELECT_ROW
+2019.05.04 13:45.35 I Step 234 > Select run 1 for team 11
+2019.05.04 13:45.35 I Step 235 > Delay SELECT_RUN
+2019.05.04 13:45.36 I Step 236 > Contest state
+2019.05.04 13:45.36 I Step 237 > Delay FAILED
+2019.05.04 13:45.37 I Step 238 > Select run null
+2019.05.04 13:45.37 I Step 239 > Delay DESELECT
+2019.05.04 13:45.38 I Step 240 > Select run 2 for team 11
+2019.05.04 13:45.38 I Step 241 > Delay SELECT_RUN
+2019.05.04 13:45.39 I Step 242 > Contest state
+2019.05.04 13:45.39 I Step 243 > Delay FAILED
+2019.05.04 13:45.39 I Step 244 > Select run null
+2019.05.04 13:45.39 I Step 245 > Delay DESELECT
+2019.05.04 13:45.40 I Step 246 > Scroll 75
+2019.05.04 13:45.40 I Step 247 > Select team 61: 姑姑，请叫我过儿
+2019.05.04 13:45.40 I Step 248 > Delay SELECT_ROW
+2019.05.04 13:45.41 I Step 249 > Select run 1 for team 61
+2019.05.04 13:45.41 I Step 250 > Delay SELECT_RUN
+2019.05.04 13:45.42 I Step 251 > Contest state
+2019.05.04 13:45.42 I Step 252 > Delay FAILED
+2019.05.04 13:45.43 I Step 253 > Select run null
+2019.05.04 13:45.43 I Step 254 > Delay DESELECT
+2019.05.04 13:45.43 I Step 255 > Scroll 74
+2019.05.04 13:45.43 I Step 256 > Select team 115: 全都会做
+2019.05.04 13:45.43 I Step 257 > Delay SELECT_ROW
+2019.05.04 13:45.45 I Step 258 > Select run 1 for team 115
+2019.05.04 13:45.45 I Step 259 > Delay SELECT_RUN
+2019.05.04 13:45.46 I Step 260 > Contest state
+2019.05.04 13:45.46 I Step 261 > Delay FAILED
+2019.05.04 13:45.47 I Step 262 > Select run null
+2019.05.04 13:45.47 I Step 263 > Delay DESELECT
+2019.05.04 13:45.47 I Step 264 > Select run 2 for team 115
+2019.05.04 13:45.47 I Step 265 > Delay SELECT_RUN
+2019.05.04 13:45.48 I Step 266 > Contest state
+2019.05.04 13:45.48 I Step 267 > Delay SOLVED_MOVE
+2019.05.04 13:45.50 I Step 268 > Select run null
+2019.05.04 13:45.50 I Step 269 > Delay DESELECT
+2019.05.04 13:45.50 I Step 270 > Select team 35: 牛肉香菜
+2019.05.04 13:45.50 I Step 271 > Delay SELECT_ROW
+2019.05.04 13:45.52 I Step 272 > Select run 1 for team 35
+2019.05.04 13:45.52 I Step 273 > Delay SELECT_RUN
+2019.05.04 13:45.53 I Step 274 > Contest state
+2019.05.04 13:45.53 I Step 275 > Delay FAILED
+2019.05.04 13:45.54 I Step 276 > Select run null
+2019.05.04 13:45.54 I Step 277 > Delay DESELECT
+2019.05.04 13:45.54 I Step 278 > Select run 2 for team 35
+2019.05.04 13:45.54 I Step 279 > Delay SELECT_RUN
+2019.05.04 13:45.55 I Step 280 > Contest state
+2019.05.04 13:45.55 I Step 281 > Delay FAILED
+2019.05.04 13:45.56 I Step 282 > Select run null
+2019.05.04 13:45.56 I Step 283 > Delay DESELECT
+2019.05.04 13:45.56 I Step 284 > Select run 3 for team 35
+2019.05.04 13:45.56 I Step 285 > Delay SELECT_RUN
+2019.05.04 13:45.57 I Step 286 > Contest state
+2019.05.04 13:45.57 I Step 287 > Delay FAILED
+2019.05.04 13:45.58 I Step 288 > Select run null
+2019.05.04 13:45.58 I Step 289 > Delay DESELECT
+2019.05.04 13:45.58 I Step 290 > Scroll 73
+2019.05.04 13:45.58 I Step 291 > Select team 107: vegetable
+2019.05.04 13:45.58 I Step 292 > Delay SELECT_ROW
+2019.05.04 13:46.00 I Step 293 > Select run 1 for team 107
+2019.05.04 13:46.00 I Step 294 > Delay SELECT_RUN
+2019.05.04 13:46.01 I Step 295 > Contest state
+2019.05.04 13:46.01 I Step 296 > Delay FAILED
+2019.05.04 13:46.01 I Step 297 > Select run null
+2019.05.04 13:46.01 I Step 298 > Delay DESELECT
+2019.05.04 13:46.02 I Step 299 > Select run 2 for team 107
+2019.05.04 13:46.02 I Step 300 > Delay SELECT_RUN
+2019.05.04 13:46.03 I Step 301 > Contest state
+2019.05.04 13:46.03 I Step 302 > Delay FAILED
+2019.05.04 13:46.04 I Step 303 > Select run null
+2019.05.04 13:46.04 I Step 304 > Delay DESELECT
+2019.05.04 13:46.04 I Step 305 > Scroll 72
+2019.05.04 13:46.04 I Step 306 > Select team 109: 一轮游
+2019.05.04 13:46.04 I Step 307 > Delay SELECT_ROW
+2019.05.04 13:46.05 I Step 308 > Select run 2 for team 109
+2019.05.04 13:46.05 I Step 309 > Delay SELECT_RUN
+2019.05.04 13:46.06 I Step 310 > Contest state
+2019.05.04 13:46.06 I Step 311 > Delay FAILED
+2019.05.04 13:46.07 I Step 312 > Select run null
+2019.05.04 13:46.07 I Step 313 > Delay DESELECT
+2019.05.04 13:46.07 I Step 314 > Scroll 71
+2019.05.04 13:46.07 I Step 315 > Select team 48: 不知怎么程序一下过了队
+2019.05.04 13:46.07 I Step 316 > Delay SELECT_ROW
+2019.05.04 13:46.09 I Step 317 > Select run 1 for team 48
+2019.05.04 13:46.09 I Step 318 > Delay SELECT_RUN
+2019.05.04 13:46.10 I Step 319 > Contest state
+2019.05.04 13:46.10 I Step 320 > Delay FAILED
+2019.05.04 13:46.11 I Step 321 > Select run null
+2019.05.04 13:46.11 I Step 322 > Delay DESELECT
+2019.05.04 13:46.11 I Step 323 > Select run 2 for team 48
+2019.05.04 13:46.11 I Step 324 > Delay SELECT_RUN
+2019.05.04 13:46.12 I Step 325 > Contest state
+2019.05.04 13:46.12 I Step 326 > Delay FAILED
+2019.05.04 13:46.13 I Step 327 > Select run null
+2019.05.04 13:46.13 I Step 328 > Delay DESELECT
+2019.05.04 13:46.13 I Step 329 > Scroll 70
+2019.05.04 13:46.13 I Step 330 > Select team 25: 全员饿人
+2019.05.04 13:46.13 I Step 331 > Delay SELECT_ROW
+2019.05.04 13:46.15 I Step 332 > Select run 1 for team 25
+2019.05.04 13:46.15 I Step 333 > Delay SELECT_RUN
+2019.05.04 13:46.16 I Step 334 > Contest state
+2019.05.04 13:46.16 I Step 335 > Delay FAILED
+2019.05.04 13:46.16 I Step 336 > Select run null
+2019.05.04 13:46.16 I Step 337 > Delay DESELECT
+2019.05.04 13:46.17 I Step 338 > Select run 3 for team 25
+2019.05.04 13:46.17 I Step 339 > Delay SELECT_RUN
+2019.05.04 13:46.18 I Step 340 > Contest state
+2019.05.04 13:46.18 I Step 341 > Delay FAILED
+2019.05.04 13:46.19 I Step 342 > Select run null
+2019.05.04 13:46.19 I Step 343 > Delay DESELECT
+2019.05.04 13:46.19 I Step 344 > Scroll 69
+2019.05.04 13:46.19 I Step 345 > Select team 101: 清晨
+2019.05.04 13:46.19 I Step 346 > Delay SELECT_ROW
+2019.05.04 13:46.20 I Step 347 > Select run 1 for team 101
+2019.05.04 13:46.20 I Step 348 > Delay SELECT_RUN
+2019.05.04 13:46.21 I Step 349 > Contest state
+2019.05.04 13:46.21 I Step 350 > Delay FAILED
+2019.05.04 13:46.22 I Step 351 > Select run null
+2019.05.04 13:46.22 I Step 352 > Delay DESELECT
+2019.05.04 13:46.22 I Step 353 > Select run 2 for team 101
+2019.05.04 13:46.22 I Step 354 > Delay SELECT_RUN
+2019.05.04 13:46.23 I Step 355 > Contest state
+2019.05.04 13:46.23 I Step 356 > Delay SOLVED_MOVE
+2019.05.04 13:46.26 I Step 357 > Select run null
+2019.05.04 13:46.26 I Step 358 > Delay DESELECT
+2019.05.04 13:46.26 I Step 359 > Select team 95: 只会乱搞队
+2019.05.04 13:46.26 I Step 360 > Delay SELECT_ROW
+2019.05.04 13:46.27 I Step 361 > Select run 2 for team 95
+2019.05.04 13:46.27 I Step 362 > Delay SELECT_RUN
+2019.05.04 13:46.28 I Step 363 > Contest state
+2019.05.04 13:46.28 I Step 364 > Delay SOLVED_MOVE
+2019.05.04 13:46.31 I Step 365 > Select run null
+2019.05.04 13:46.31 I Step 366 > Delay DESELECT
+2019.05.04 13:46.31 I Step 367 > Select team 94: 007.icu
+2019.05.04 13:46.31 I Step 368 > Delay SELECT_ROW
+2019.05.04 13:46.32 I Step 369 > Scroll 68
+2019.05.04 13:46.32 I Step 370 > Select team 27: 这题怎么都做不队
+2019.05.04 13:46.32 I Step 371 > Delay SELECT_ROW
+2019.05.04 13:46.34 I Step 372 > Select run 1 for team 27
+2019.05.04 13:46.34 I Step 373 > Delay SELECT_RUN
+2019.05.04 13:46.35 I Step 374 > Contest state
+2019.05.04 13:46.35 I Step 375 > Delay FAILED
+2019.05.04 13:46.36 I Step 376 > Select run null
+2019.05.04 13:46.36 I Step 377 > Delay DESELECT
+2019.05.04 13:46.36 I Step 378 > Select run 2 for team 27
+2019.05.04 13:46.36 I Step 379 > Delay SELECT_RUN
+2019.05.04 13:46.37 I Step 380 > Contest state
+2019.05.04 13:46.37 I Step 381 > Delay SOLVED_MOVE
+2019.05.04 13:46.39 I Step 382 > Select run null
+2019.05.04 13:46.39 I Step 383 > Delay DESELECT
+2019.05.04 13:46.40 I Step 384 > Select team 5: MathEW
+2019.05.04 13:46.40 I Step 385 > Delay SELECT_ROW
+2019.05.04 13:46.41 I Step 386 > Select run 1 for team 5
+2019.05.04 13:46.41 I Step 387 > Delay SELECT_RUN
+2019.05.04 13:46.42 I Step 388 > Contest state
+2019.05.04 13:46.42 I Step 389 > Delay FAILED
+2019.05.04 13:46.43 I Step 390 > Select run null
+2019.05.04 13:46.43 I Step 391 > Delay DESELECT
+2019.05.04 13:46.43 I Step 392 > Select run 2 for team 5
+2019.05.04 13:46.43 I Step 393 > Delay SELECT_RUN
+2019.05.04 13:46.44 I Step 394 > Contest state
+2019.05.04 13:46.44 I Step 395 > Delay SOLVED_MOVE
+2019.05.04 13:46.46 I Step 396 > Select run null
+2019.05.04 13:46.46 I Step 397 > Delay DESELECT
+2019.05.04 13:46.47 I Step 398 > Select team 14: 996与404
+2019.05.04 13:46.47 I Step 399 > Delay SELECT_ROW
+2019.05.04 13:46.48 I Step 400 > Select run 1 for team 14
+2019.05.04 13:46.48 I Step 401 > Delay SELECT_RUN
+2019.05.04 13:46.49 I Step 402 > Contest state
+2019.05.04 13:46.49 I Step 403 > Delay FAILED
+2019.05.04 13:46.50 I Step 404 > Select run null
+2019.05.04 13:46.50 I Step 405 > Delay DESELECT
+2019.05.04 13:46.50 I Step 406 > Select run 2 for team 14
+2019.05.04 13:46.50 I Step 407 > Delay SELECT_RUN
+2019.05.04 13:46.51 I Step 408 > Contest state
+2019.05.04 13:46.51 I Step 409 > Delay FAILED
+2019.05.04 13:46.52 I Step 410 > Select run null
+2019.05.04 13:46.52 I Step 411 > Delay DESELECT
+2019.05.04 13:46.52 I Step 412 > Scroll 67
+2019.05.04 13:46.52 I Step 413 > Select team 2: 蛇了啊兄弟萌
+2019.05.04 13:46.52 I Step 414 > Delay SELECT_ROW
+2019.05.04 13:46.54 I Step 415 > Select run 1 for team 2
+2019.05.04 13:46.54 I Step 416 > Delay SELECT_RUN
+2019.05.04 13:46.55 I Step 417 > Contest state
+2019.05.04 13:46.55 I Step 418 > Delay SOLVED_MOVE
+2019.05.04 13:46.57 I Step 419 > Select run null
+2019.05.04 13:46.57 I Step 420 > Delay DESELECT
+2019.05.04 13:46.57 I Step 421 > Select team 26: 小白兔
+2019.05.04 13:46.57 I Step 422 > Delay SELECT_ROW
+2019.05.04 13:46.59 I Step 423 > Select run 2 for team 26
+2019.05.04 13:46.59 I Step 424 > Delay SELECT_RUN
+2019.05.04 13:47.00 I Step 425 > Contest state
+2019.05.04 13:47.00 I Step 426 > Delay FAILED
+2019.05.04 13:47.01 I Step 427 > Select run null
+2019.05.04 13:47.01 I Step 428 > Delay DESELECT
+2019.05.04 13:47.01 I Step 429 > Scroll 66
+2019.05.04 13:47.01 I Step 430 > Select team 72: ICAC—C组
+2019.05.04 13:47.01 I Step 431 > Delay SELECT_ROW
+2019.05.04 13:47.02 I Step 432 > Select run 1 for team 72
+2019.05.04 13:47.02 I Step 433 > Delay SELECT_RUN
+2019.05.04 13:47.03 I Step 434 > Contest state
+2019.05.04 13:47.03 I Step 435 > Delay FAILED
+2019.05.04 13:47.04 I Step 436 > Select run null
+2019.05.04 13:47.04 I Step 437 > Delay DESELECT
+2019.05.04 13:47.05 I Step 438 > Select run 2 for team 72
+2019.05.04 13:47.05 I Step 439 > Delay SELECT_RUN
+2019.05.04 13:47.06 I Step 440 > Contest state
+2019.05.04 13:47.06 I Step 441 > Delay FAILED
+2019.05.04 13:47.06 I Step 442 > Select run null
+2019.05.04 13:47.06 I Step 443 > Delay DESELECT
+2019.05.04 13:47.07 I Step 444 > Scroll 65
+2019.05.04 13:47.07 I Step 445 > Select team 79: 沉迷小姐姐
+2019.05.04 13:47.07 I Step 446 > Delay SELECT_ROW
+2019.05.04 13:47.08 I Step 447 > Select run 1 for team 79
+2019.05.04 13:47.08 I Step 448 > Delay SELECT_RUN
+2019.05.04 13:47.09 I Step 449 > Contest state
+2019.05.04 13:47.09 I Step 450 > Delay SOLVED_MOVE
+2019.05.04 13:47.11 I Step 451 > Select run null
+2019.05.04 13:47.11 I Step 452 > Delay DESELECT
+2019.05.04 13:47.12 I Step 453 > Select team 2: 蛇了啊兄弟萌
+2019.05.04 13:47.12 I Step 454 > Delay SELECT_ROW
+2019.05.04 13:47.13 I Step 455 > Select run 2 for team 2
+2019.05.04 13:47.13 I Step 456 > Delay SELECT_RUN
+2019.05.04 13:47.14 I Step 457 > Contest state
+2019.05.04 13:47.14 I Step 458 > Delay FAILED
+2019.05.04 13:47.15 I Step 459 > Select run null
+2019.05.04 13:47.15 I Step 460 > Delay DESELECT
+2019.05.04 13:47.15 I Step 461 > Scroll 64
+2019.05.04 13:47.15 I Step 462 > Select team 79: 沉迷小姐姐
+2019.05.04 13:47.15 I Step 463 > Delay SELECT_ROW
+2019.05.04 13:47.17 I Step 464 > Select run 2 for team 79
+2019.05.04 13:47.17 I Step 465 > Delay SELECT_RUN
+2019.05.04 13:47.18 I Step 466 > Contest state
+2019.05.04 13:47.18 I Step 467 > Delay FAILED
+2019.05.04 13:47.19 I Step 468 > Select run null
+2019.05.04 13:47.19 I Step 469 > Delay DESELECT
+2019.05.04 13:47.19 I Step 470 > Scroll 63
+2019.05.04 13:47.19 I Step 471 > Select team 23: 队名？
+2019.05.04 13:47.19 I Step 472 > Delay SELECT_ROW
+2019.05.04 13:47.20 I Step 473 > Select run 1 for team 23
+2019.05.04 13:47.20 I Step 474 > Delay SELECT_RUN
+2019.05.04 13:47.21 I Step 475 > Contest state
+2019.05.04 13:47.21 I Step 476 > Delay FAILED
+2019.05.04 13:47.22 I Step 477 > Select run null
+2019.05.04 13:47.22 I Step 478 > Delay DESELECT
+2019.05.04 13:47.22 I Step 479 > Select run 3 for team 23
+2019.05.04 13:47.22 I Step 480 > Delay SELECT_RUN
+2019.05.04 13:47.23 I Step 481 > Contest state
+2019.05.04 13:47.23 I Step 482 > Delay FAILED
+2019.05.04 13:47.24 I Step 483 > Select run null
+2019.05.04 13:47.24 I Step 484 > Delay DESELECT
+2019.05.04 13:47.25 I Step 485 > Scroll 62
+2019.05.04 13:47.25 I Step 486 > Select team 5: MathEW
+2019.05.04 13:47.25 I Step 487 > Delay SELECT_ROW
+2019.05.04 13:47.26 I Step 488 > Scroll 61
+2019.05.04 13:47.26 I Step 489 > Select team 43: 410
+2019.05.04 13:47.26 I Step 490 > Delay SELECT_ROW
+2019.05.04 13:47.28 I Step 491 > Select run 1 for team 43
+2019.05.04 13:47.28 I Step 492 > Delay SELECT_RUN
+2019.05.04 13:47.29 I Step 493 > Contest state
+2019.05.04 13:47.29 I Step 494 > Delay FAILED
+2019.05.04 13:47.29 I Step 495 > Select run null
+2019.05.04 13:47.29 I Step 496 > Delay DESELECT
+2019.05.04 13:47.30 I Step 497 > Select run 3 for team 43
+2019.05.04 13:47.30 I Step 498 > Delay SELECT_RUN
+2019.05.04 13:47.31 I Step 499 > Contest state
+2019.05.04 13:47.31 I Step 500 > Delay FAILED
+2019.05.04 13:47.31 I Step 501 > Select run null
+2019.05.04 13:47.31 I Step 502 > Delay DESELECT
+2019.05.04 13:47.32 I Step 503 > Scroll 60
+2019.05.04 13:47.32 I Step 504 > Select team 17: OKplus
+2019.05.04 13:47.32 I Step 505 > Delay SELECT_ROW
+2019.05.04 13:47.33 I Step 506 > Select run 2 for team 17
+2019.05.04 13:47.33 I Step 507 > Delay SELECT_RUN
+2019.05.04 13:47.34 I Step 508 > Contest state
+2019.05.04 13:47.34 I Step 509 > Delay FAILED
+2019.05.04 13:47.35 I Step 510 > Select run null
+2019.05.04 13:47.35 I Step 511 > Delay DESELECT
+2019.05.04 13:47.35 I Step 512 > Select run 3 for team 17
+2019.05.04 13:47.35 I Step 513 > Delay SELECT_RUN
+2019.05.04 13:47.36 I Step 514 > Contest state
+2019.05.04 13:47.36 I Step 515 > Delay SOLVED_MOVE
+2019.05.04 13:47.39 I Step 516 > Select run null
+2019.05.04 13:47.39 I Step 517 > Delay DESELECT
+2019.05.04 13:47.39 I Step 518 > Select team 126: 三叶草
+2019.05.04 13:47.39 I Step 519 > Delay SELECT_ROW
+2019.05.04 13:47.40 I Step 520 > Scroll 59
+2019.05.04 13:47.40 I Step 521 > Select team 105: CXK帮我看看代码对不队2对
+2019.05.04 13:47.40 I Step 522 > Delay SELECT_ROW
+2019.05.04 13:47.42 I Step 523 > Select run 2 for team 105
+2019.05.04 13:47.42 I Step 524 > Delay SELECT_RUN
+2019.05.04 13:47.43 I Step 525 > Contest state
+2019.05.04 13:47.43 I Step 526 > Delay FAILED
+2019.05.04 13:47.44 I Step 527 > Select run null
+2019.05.04 13:47.44 I Step 528 > Delay DESELECT
+2019.05.04 13:47.44 I Step 529 > Scroll 58
+2019.05.04 13:47.44 I Step 530 > Select team 67: bulibulo
+2019.05.04 13:47.44 I Step 531 > Delay SELECT_ROW
+2019.05.04 13:47.45 I Step 532 > Select run 1 for team 67
+2019.05.04 13:47.45 I Step 533 > Delay SELECT_RUN
+2019.05.04 13:47.46 I Step 534 > Contest state
+2019.05.04 13:47.46 I Step 535 > Delay FAILED

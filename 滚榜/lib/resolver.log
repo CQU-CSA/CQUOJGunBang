@@ -1,0 +1,2538 @@
+---- ICPC Resolver (1.1.0/1058) ----
+OS:  Windows 10 (x86/10.0)
+JRE: Oracle Corporation (1.8.0_181)
+Log started at 2019.04.24 20:54.43
+
+2019.04.24 20:54.43 Launching Resolver with arguments: "D:\CQUOJGunBang\contest.xml"
+2019.04.24 20:54.43 I clientArgs=''
+2019.04.24 20:54.43 I ######
+2019.04.24 20:54.43 I Initializing resolver object...
+2019.04.24 20:54.43 W Warning: Contest not finalized
+2019.04.24 20:54.43 ---------------
+2019.04.24 20:54.43 First to solve problem A
+	28: cqupc18_team32
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 First to solve problem D
+	28: cqupc18_team10
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 First to solve problem G
+	13: *cqupc18_team6
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Bronze Medalist, and solving 4 problems in 588 minutes
+	12: cqupc18_team16
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Bronze Medalist, First to solve problem H, and solving 4 problems in 519 minutes
+	11: cqupc18_team2
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Bronze Medalist, and solving 4 problems in 510 minutes
+	10: cqupc18_team4
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Bronze Medalist, and solving 4 problems in 444 minutes
+	9: *cqupc18_team9
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Silver Medalist, and solving 4 problems in 412 minutes
+	8: *cqupc18_team10
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Silver Medalist, and solving 4 problems in 261 minutes
+	7: cqupc18_team3
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Silver Medalist, First to solve problems B and F, and solving 5 problems in 667 minutes
+	6: *cqupc18_team11
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Silver Medalist, and solving 5 problems in 459 minutes
+	5: *cqupc18_team1
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Gold Medalist, First to solve problem E, and solving 6 problems in 895 minutes
+	4: *cqupc18_team17
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Gold Medalist, and solving 6 problems in 465 minutes
+	3: *cqupc18_team12
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 Gold Medalist, and solving 7 problems in 802 minutes
+	2: *cqupc18_team18
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 World Champion, Gold Medalist,  Champions, First to solve problem C, and solving 7 problems in 751 minutes
+	1: *cqupc18_team19
+2019.04.24 20:54.43 
+2019.04.24 20:54.43 ---------------
+2019.04.24 20:54.43 I Resolving...
+2019.04.24 20:54.43 I medal info: last gold = -1; last silver = -1; last bronze = -1
+2019.04.24 20:54.43 Resolving 212 runs ... 
+2019.04.24 20:54.43 I Resolving row: 89
+2019.04.24 20:54.43 I Resolving row: 88
+2019.04.24 20:54.43 I Resolving row: 87
+2019.04.24 20:54.43 I Resolving row: 86
+2019.04.24 20:54.43 I Resolving row: 85
+2019.04.24 20:54.43 I Resolving row: 84
+2019.04.24 20:54.43 I Resolving row: 83
+2019.04.24 20:54.43 I Resolving row: 82
+2019.04.24 20:54.43 I Resolving row: 81
+2019.04.24 20:54.43 I Resolving row: 80
+2019.04.24 20:54.43 I Resolving row: 79
+2019.04.24 20:54.43 I Resolving row: 78
+2019.04.24 20:54.43 I Resolving row: 77
+2019.04.24 20:54.43 I Resolving row: 76
+2019.04.24 20:54.43 I Resolving row: 75
+2019.04.24 20:54.43 I Resolving row: 74
+2019.04.24 20:54.43 I Resolving row: 73
+2019.04.24 20:54.43 I Resolving row: 72
+2019.04.24 20:54.43 I Resolving row: 71
+2019.04.24 20:54.43 I Resolving row: 70
+2019.04.24 20:54.43 I Resolving row: 69
+2019.04.24 20:54.43 I Resolving row: 68
+2019.04.24 20:54.43 I Resolving row: 67
+2019.04.24 20:54.43 I Resolving row: 66
+2019.04.24 20:54.43 I Resolving row: 65
+2019.04.24 20:54.43 I Resolving row: 64
+2019.04.24 20:54.43 I Resolving row: 63
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 11291000] RunInfo[11, 3]
+2019.04.24 20:54.43 I    Solved. 11 moved from row 63 to row 46
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 11869000] RunInfo[45, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 62
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 11116000] RunInfo[46, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 14111000] RunInfo[46, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 61
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 7, 12899000] RunInfo[35, 3]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 60
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 7, 14112000] RunInfo[26, 3]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 13243000] RunInfo[26, 4]
+2019.04.24 20:54.43 I    Solved. 26 moved from row 60 to row 45
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 8, 13325000] RunInfo[32, 0]
+2019.04.24 20:54.43 I    Solved. 32 moved from row 60 to row 52
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 12207000] RunInfo[38, 3]
+2019.04.24 20:54.43 I    Solved. 38 moved from row 60 to row 45
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 13665000] RunInfo[31, 3]
+2019.04.24 20:54.43 I    Solved. 31 moved from row 60 to row 49
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 12363000] RunInfo[23, 3]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 59
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 7, 14363000] RunInfo[49, 3]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 14159000] RunInfo[49, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 7, 13056000] RunInfo[49, 7]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 58
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 11952000] RunInfo[48, 3]
+2019.04.24 20:54.43 I    Solved. 48 moved from row 58 to row 43
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 12, 14253000] RunInfo[29, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 13748000] RunInfo[29, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 57
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13983000] RunInfo[50, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 56
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 14397000] RunInfo[37, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 55
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 11894000] RunInfo[32, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Award at row: 55 32
+2019.04.24 20:54.43 I Resolving row: 54
+2019.04.24 20:54.43 I Resolving row: 53
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 11225000] RunInfo[27, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 52
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13187000] RunInfo[36, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 13682000] RunInfo[36, 7]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 51
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 10, 14246000] RunInfo[17, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 50
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 12828000] RunInfo[31, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 49
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 6, 14356000] RunInfo[11, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 48
+2019.04.24 20:54.43 I Resolving row: 47
+2019.04.24 20:54.43 I Resolving row: 46
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 11506000] RunInfo[38, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 45
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 14374000] RunInfo[42, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 44
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 7, 14379000] RunInfo[14, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 43
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 6, 11243000] RunInfo[48, 4]
+2019.04.24 20:54.43 I    Solved. 48 moved from row 43 to row 22
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 6, 13852000] RunInfo[44, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13176000] RunInfo[44, 7]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 42
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 11731000] RunInfo[10014, 4]
+2019.04.24 20:54.43 I    Solved. 10014 moved from row 42 to row 22
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 10, 14367000] RunInfo[18, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 41
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 14261000] RunInfo[8, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 40
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 14241000] RunInfo[10, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Award at row: 40 10
+2019.04.24 20:54.43 I Resolving row: 39
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 10, 14337000] RunInfo[25, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 38
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 12176000] RunInfo[21, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 37
+2019.04.24 20:54.43 I Resolving row: 36
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 11769000] RunInfo[33, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 35
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 12655000] RunInfo[19, 4]
+2019.04.24 20:54.43 I    Solved. 19 moved from row 35 to row 20
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 14393000] RunInfo[15, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 13659000] RunInfo[15, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 34
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 13143000] RunInfo[10016, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 14, 13818000] RunInfo[10016, 7]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 33
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 14006000] RunInfo[41, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 32
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 14037000] RunInfo[20, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 31
+2019.04.24 20:54.43 I Resolving row: 30
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 12860000] RunInfo[13, 7]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 29
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 12631000] RunInfo[24, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 28
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 7, 13940000] RunInfo[10013, 4]
+2019.04.24 20:54.43 I    Solved. 10013 moved from row 28 to row 23
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 14241000] RunInfo[43, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13955000] RunInfo[43, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 27
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 11584000] RunInfo[1006, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 14244000] RunInfo[1006, 6]
+2019.04.24 20:54.43 I    Solved. 1006 moved from row 27 to row 20
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 14351000] RunInfo[1002, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 11271000] RunInfo[1002, 7]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 26
+2019.04.24 20:54.43 I Resolving row: 25
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 14175000] RunInfo[10014, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 12976000] RunInfo[10014, 8]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 24
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 14397000] RunInfo[10013, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 23
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13915000] RunInfo[1005, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 22
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 14347000] RunInfo[10015, 7]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 21
+2019.04.24 20:54.43 I Resolving row: 20
+2019.04.24 20:54.43 I Award at row: 20 1006
+2019.04.24 20:54.43 I Resolving row: 19
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 13250000] RunInfo[16, 4]
+2019.04.24 20:54.43 I    Solved. 16 moved from row 19 to row 7
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 12402000] RunInfo[1008, 2]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 18
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 14399000] RunInfo[1009, 2]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 13611000] RunInfo[1009, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 10829000] RunInfo[1009, 7]
+2019.04.24 20:54.43 I    Solved. 1009 moved from row 18 to row 7
+2019.04.24 20:54.43 I Resolving row: 17
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 14255000] RunInfo[30, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 16
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 6, 13413000] RunInfo[4, 2]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 14078000] RunInfo[4, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 11044000] RunInfo[4, 7]
+2019.04.24 20:54.43 I    Solved. 4 moved from row 16 to row 8
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 14065000] RunInfo[2, 7]
+2019.04.24 20:54.43 I    Solved. 2 moved from row 16 to row 9
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 14200000] RunInfo[1004, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13922000] RunInfo[1004, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 15
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 5, 14318000] RunInfo[5, 2]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 11143000] RunInfo[5, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 10967000] RunInfo[5, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 14
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 13344000] RunInfo[28, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 13
+2019.04.24 20:54.43 I Resolving row: 12
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 10921000] RunInfo[10011, 1]
+2019.04.24 20:54.43 I    Solved. 10011 moved from row 12 to row 5
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 13787000] RunInfo[1, 1]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13652000] RunInfo[1, 2]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13671000] RunInfo[1, 5]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 12726000] RunInfo[1, 7]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13331000] RunInfo[1, 8]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving row: 11
+2019.04.24 20:54.43 I Award at row: 11 16
+2019.04.24 20:54.43 I Resolving row: 10
+2019.04.24 20:54.43 I Award at row: 10 2
+2019.04.24 20:54.43 I Resolving row: 9
+2019.04.24 20:54.43 I Award at row: 9 4
+2019.04.24 20:54.43 I Resolving row: 8
+2019.04.24 20:54.43 I Award at row: 8 1009
+2019.04.24 20:54.43 I Resolving row: 7
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 13601000] RunInfo[10010, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Award at row: 7 10010
+2019.04.24 20:54.43 I Resolving row: 6
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 14163000] RunInfo[10017, 4]
+2019.04.24 20:54.43 I    Solved. 10017 moved from row 6 to row 4
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 14355000] RunInfo[10011, 4]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 9, 11824000] RunInfo[10011, 5]
+2019.04.24 20:54.43 I    Solved. 10011 moved from row 6 to row 4
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 14199000] RunInfo[3, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Award at row: 6 3
+2019.04.24 20:54.43 I Resolving row: 5
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 1, 13270000] RunInfo[10017, 7]
+2019.04.24 20:54.43 I    Solved. 10017 moved from row 5 to row 2
+2019.04.24 20:54.43 I Award at row: 5 10011
+2019.04.24 20:54.43 I Resolving row: 4
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 12964000] RunInfo[1001, 2]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Award at row: 4 1001
+2019.04.24 20:54.43 I Resolving row: 3
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 4, 14371000] RunInfo[10012, 2]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 2, 11276000] RunInfo[10012, 4]
+2019.04.24 20:54.43 I    Solved. 10012 moved from row 3 to row 2
+2019.04.24 20:54.43 I Award at row: 3 10017
+2019.04.24 20:54.43 I Resolving row: 2
+2019.04.24 20:54.43 I Resolving: Result [SUBMITTED, 3, 14099000] RunInfo[10012, 6]
+2019.04.24 20:54.43 I    Not solved, no change
+2019.04.24 20:54.43 I Award at row: 2 10012
+2019.04.24 20:54.43 I Resolving row: 1
+2019.04.24 20:54.43 I Award at row: 1 10018
+2019.04.24 20:54.43 I Resolving row: 0
+2019.04.24 20:54.43 I Award at row: 0 10019
+2019.04.24 20:54.43 Done resolving
+2019.04.24 20:54.43 I Resolution steps:
+2019.04.24 20:54.43 I   Pause 0
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Select team null
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Pause 1
+2019.04.24 20:54.43 I   Scroll 79
+2019.04.24 20:54.43 I   Pause 2
+2019.04.24 20:54.43 I   Select team 60: cqupc18_team60
+2019.04.24 20:54.43 I   Pause 3
+2019.04.24 20:54.43 I   Scroll 79
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 78
+2019.04.24 20:54.43 I   Select team 59: cqupc18_team59
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 77
+2019.04.24 20:54.43 I   Select team 58: cqupc18_team58
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 76
+2019.04.24 20:54.43 I   Select team 57: cqupc18_team57
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 75
+2019.04.24 20:54.43 I   Select team 56: cqupc18_team56
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 74
+2019.04.24 20:54.43 I   Select team 55: cqupc18_team55
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 73
+2019.04.24 20:54.43 I   Select team 54: cqupc18_team54
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 72
+2019.04.24 20:54.43 I   Select team 53: cqupc18_team53
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 71
+2019.04.24 20:54.43 I   Select team 52: cqupc18_team52
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 70
+2019.04.24 20:54.43 I   Select team 51: cqupc18_team51
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 69
+2019.04.24 20:54.43 I   Select team 40: cqupc18_team40
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 68
+2019.04.24 20:54.43 I   Select team 39: cqupc18_team39
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 67
+2019.04.24 20:54.43 I   Select team 22: cqupc18_team22
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 66
+2019.04.24 20:54.43 I   Select team 12: cqupc18_team12
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 65
+2019.04.24 20:54.43 I   Select team 1007: *cqupc18_team7
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 64
+2019.04.24 20:54.43 I   Select team 10030: *cqupc18_team30
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 63
+2019.04.24 20:54.43 I   Select team 10029: *cqupc18_team29
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 62
+2019.04.24 20:54.43 I   Select team 10028: *cqupc18_team28
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 61
+2019.04.24 20:54.43 I   Select team 10027: *cqupc18_team27
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 60
+2019.04.24 20:54.43 I   Select team 10026: *cqupc18_team26
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 59
+2019.04.24 20:54.43 I   Select team 10025: *cqupc18_team25
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 58
+2019.04.24 20:54.43 I   Select team 10024: *cqupc18_team24
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 57
+2019.04.24 20:54.43 I   Select team 10023: *cqupc18_team23
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 56
+2019.04.24 20:54.43 I   Select team 10022: *cqupc18_team22
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 55
+2019.04.24 20:54.43 I   Select team 10021: *cqupc18_team21
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 54
+2019.04.24 20:54.43 I   Select team 10020: *cqupc18_team20
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 53
+2019.04.24 20:54.43 I   Select team 11: cqupc18_team11
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 3 for team 11
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 45: cqupc18_team45
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 45
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 52
+2019.04.24 20:54.43 I   Select team 46: cqupc18_team46
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 46
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 6 for team 46
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 51
+2019.04.24 20:54.43 I   Select team 35: cqupc18_team35
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 3 for team 35
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 50
+2019.04.24 20:54.43 I   Select team 26: cqupc18_team26
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 3 for team 26
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 4 for team 26
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 32: cqupc18_team32
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 0 for team 32
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 38: cqupc18_team38
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 3 for team 38
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 31: cqupc18_team31
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 3 for team 31
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 23: cqupc18_team23
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 3 for team 23
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 49
+2019.04.24 20:54.43 I   Select team 49: cqupc18_team49
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 3 for team 49
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 4 for team 49
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 7 for team 49
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 48
+2019.04.24 20:54.43 I   Select team 48: cqupc18_team48
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 3 for team 48
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 29: cqupc18_team29
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 29
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 5 for team 29
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 47
+2019.04.24 20:54.43 I   Select team 50: cqupc18_team50
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 50
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 46
+2019.04.24 20:54.43 I   Select team 37: cqupc18_team37
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 37
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 45
+2019.04.24 20:54.43 I   Select team 32: cqupc18_team32
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 5 for team 32
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 32: cqupc18_team32
+2019.04.24 20:54.43 I   Pause 4
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 5
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 6
+2019.04.24 20:54.43 I   Scroll 44
+2019.04.24 20:54.43 I   Select team 47: cqupc18_team47
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 43
+2019.04.24 20:54.43 I   Select team 27: cqupc18_team27
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 27
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 42
+2019.04.24 20:54.43 I   Select team 36: cqupc18_team36
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 36
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 7 for team 36
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 41
+2019.04.24 20:54.43 I   Select team 17: cqupc18_team17
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 17
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 40
+2019.04.24 20:54.43 I   Select team 31: cqupc18_team31
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 31
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 39
+2019.04.24 20:54.43 I   Select team 11: cqupc18_team11
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 11
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 38
+2019.04.24 20:54.43 I   Select team 34: cqupc18_team34
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 37
+2019.04.24 20:54.43 I   Select team 26: cqupc18_team26
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 36
+2019.04.24 20:54.43 I   Select team 38: cqupc18_team38
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 38
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 35
+2019.04.24 20:54.43 I   Select team 42: cqupc18_team42
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 42
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 34
+2019.04.24 20:54.43 I   Select team 14: cqupc18_team14
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 14
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 33
+2019.04.24 20:54.43 I   Select team 48: cqupc18_team48
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 48
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 44: cqupc18_team44
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 44
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 7 for team 44
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 32
+2019.04.24 20:54.43 I   Select team 10014: *cqupc18_team14
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 10014
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 18: cqupc18_team18
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 18
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 31
+2019.04.24 20:54.43 I   Select team 8: cqupc18_team8
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 8
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 30
+2019.04.24 20:54.43 I   Select team 10: cqupc18_team10
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 10
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 10: cqupc18_team10
+2019.04.24 20:54.43 I   Pause 7
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 8
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 9
+2019.04.24 20:54.43 I   Scroll 29
+2019.04.24 20:54.43 I   Select team 25: cqupc18_team25
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 25
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 28
+2019.04.24 20:54.43 I   Select team 21: cqupc18_team21
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 21
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 27
+2019.04.24 20:54.43 I   Select team 1003: *cqupc18_team3
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 26
+2019.04.24 20:54.43 I   Select team 33: cqupc18_team33
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 33
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 25
+2019.04.24 20:54.43 I   Select team 19: cqupc18_team19
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 19
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 15: cqupc18_team15
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 15
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 6 for team 15
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 24
+2019.04.24 20:54.43 I   Select team 10016: *cqupc18_team16
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 10016
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 7 for team 10016
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 23
+2019.04.24 20:54.43 I   Select team 41: cqupc18_team41
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 41
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 22
+2019.04.24 20:54.43 I   Select team 20: cqupc18_team20
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 20
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 21
+2019.04.24 20:54.43 I   Select team 9: cqupc18_team9
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 20
+2019.04.24 20:54.43 I   Select team 13: cqupc18_team13
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 7 for team 13
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 19
+2019.04.24 20:54.43 I   Select team 24: cqupc18_team24
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 24
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 18
+2019.04.24 20:54.43 I   Select team 10013: *cqupc18_team13
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 10013
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 43: cqupc18_team43
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 43
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 6 for team 43
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 17
+2019.04.24 20:54.43 I   Select team 1006: *cqupc18_team6
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 1006
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 6 for team 1006
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 1002: *cqupc18_team2
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 5 for team 1002
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 7 for team 1002
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 16
+2019.04.24 20:54.43 I   Select team 48: cqupc18_team48
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 15
+2019.04.24 20:54.43 I   Select team 10014: *cqupc18_team14
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 5 for team 10014
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 8 for team 10014
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 14
+2019.04.24 20:54.43 I   Select team 10013: *cqupc18_team13
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 10013
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 13
+2019.04.24 20:54.43 I   Select team 1005: *cqupc18_team5
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 1005
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 12
+2019.04.24 20:54.43 I   Select team 10015: *cqupc18_team15
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 7 for team 10015
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 11
+2019.04.24 20:54.43 I   Select team 19: cqupc18_team19
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 10
+2019.04.24 20:54.43 I   Select team 1006: *cqupc18_team6
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 1006: *cqupc18_team6
+2019.04.24 20:54.43 I   Pause 10
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 11
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 12
+2019.04.24 20:54.43 I   Scroll 9
+2019.04.24 20:54.43 I   Select team 16: cqupc18_team16
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 16
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 1008: *cqupc18_team8
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 2 for team 1008
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 8
+2019.04.24 20:54.43 I   Select team 1009: *cqupc18_team9
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 2 for team 1009
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 5 for team 1009
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 7 for team 1009
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 6: cqupc18_team6
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 7
+2019.04.24 20:54.43 I   Select team 30: cqupc18_team30
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 30
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 6
+2019.04.24 20:54.43 I   Select team 4: cqupc18_team4
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 2 for team 4
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 5 for team 4
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 7 for team 4
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 2: cqupc18_team2
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 7 for team 2
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 1004: *cqupc18_team4
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 5 for team 1004
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 6 for team 1004
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 5
+2019.04.24 20:54.43 I   Select team 5: cqupc18_team5
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 2 for team 5
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 5 for team 5
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 6 for team 5
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 4
+2019.04.24 20:54.43 I   Select team 28: cqupc18_team28
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 28
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 3
+2019.04.24 20:54.43 I   Select team 7: cqupc18_team7
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Scroll 2
+2019.04.24 20:54.43 I   Select team 10011: *cqupc18_team11
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 1 for team 10011
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 1: cqupc18_team1
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 1 for team 1
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 2 for team 1
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 5 for team 1
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 7 for team 1
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 8 for team 1
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Scroll 1
+2019.04.24 20:54.43 I   Select team 16: cqupc18_team16
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 16: cqupc18_team16
+2019.04.24 20:54.43 I   Pause 13
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 14
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 15
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 2: cqupc18_team2
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 2: cqupc18_team2
+2019.04.24 20:54.43 I   Pause 16
+2019.04.24 20:54.43 I   Award 2
+2019.04.24 20:54.43 I   Pause 17
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 18
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 4: cqupc18_team4
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 4: cqupc18_team4
+2019.04.24 20:54.43 I   Pause 19
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 20
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 21
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 1009: *cqupc18_team9
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 1009: *cqupc18_team9
+2019.04.24 20:54.43 I   Pause 22
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 23
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 24
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 10010: *cqupc18_team10
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 10010
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 10010: *cqupc18_team10
+2019.04.24 20:54.43 I   Pause 25
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 26
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 27
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 10017: *cqupc18_team17
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 10017
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 10011: *cqupc18_team11
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 4 for team 10011
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 5 for team 10011
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 3: cqupc18_team3
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 3
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 3: cqupc18_team3
+2019.04.24 20:54.43 I   Pause 28
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 29
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 30
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 10017: *cqupc18_team17
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 7 for team 10017
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 10011: *cqupc18_team11
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 10011: *cqupc18_team11
+2019.04.24 20:54.43 I   Pause 31
+2019.04.24 20:54.43 I   Award 2
+2019.04.24 20:54.43 I   Pause 32
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 33
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 1001: *cqupc18_team1
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 2 for team 1001
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 1001: *cqupc18_team1
+2019.04.24 20:54.43 I   Pause 34
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 35
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 36
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 10012: *cqupc18_team12
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 2 for team 10012
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select run 4 for team 10012
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay SOLVED_MOVE
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 10017: *cqupc18_team17
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 10017: *cqupc18_team17
+2019.04.24 20:54.43 I   Pause 37
+2019.04.24 20:54.43 I   Award 2
+2019.04.24 20:54.43 I   Pause 38
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 39
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 10012: *cqupc18_team12
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select run 6 for team 10012
+2019.04.24 20:54.43 I   Delay SELECT_RUN
+2019.04.24 20:54.43 I   Contest state
+2019.04.24 20:54.43 I   Delay FAILED
+2019.04.24 20:54.43 I   Select run null
+2019.04.24 20:54.43 I   Delay DESELECT
+2019.04.24 20:54.43 I   Select team 10012: *cqupc18_team12
+2019.04.24 20:54.43 I   Pause 40
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 41
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 42
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 10018: *cqupc18_team18
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 10018: *cqupc18_team18
+2019.04.24 20:54.43 I   Pause 43
+2019.04.24 20:54.43 I   Award 1
+2019.04.24 20:54.43 I   Pause 44
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 45
+2019.04.24 20:54.43 I   Scroll 0
+2019.04.24 20:54.43 I   Select team 10019: *cqupc18_team19
+2019.04.24 20:54.43 I   Delay SELECT_ROW
+2019.04.24 20:54.43 I   Select team 10019: *cqupc18_team19
+2019.04.24 20:54.43 I   Pause 46
+2019.04.24 20:54.43 I   Award 4
+2019.04.24 20:54.43 I   Pause 47
+2019.04.24 20:54.43 I   Award (none)
+2019.04.24 20:54.43 I   Pause 48
+2019.04.24 20:54.43 I   Select team null
+2019.04.24 20:54.43 I   Pause 49
+2019.04.24 20:54.43   Playback time: 6m 26s
+2019.04.24 20:54.43   Total pauses: 50
+2019.04.24 20:54.43 I   Contest states: 93
+2019.04.24 20:54.43 I   Total steps: 964
+2019.04.24 20:54.43 I   Time to resolve: 116ms
+2019.04.24 20:54.44 I No logo found for team 32: No image found
+2019.04.24 20:54.44 I No image found for team 32: No image found
+2019.04.24 20:54.44 I No logo found for team 10: No image found
+2019.04.24 20:54.44 I No image found for team 10: No image found
+2019.04.24 20:54.44 I No logo found for team 1006: No image found
+2019.04.24 20:54.44 I No image found for team 1006: No image found
+2019.04.24 20:54.48 I 
+**Action: FORWARD from 0**
+2019.04.24 20:54.48 I Step 1 > Contest state
+2019.04.24 20:54.48 I Step 2 > Select team null
+2019.04.24 20:54.48 I Step 3 > Select run null
+2019.04.24 20:54.48 I Step 4 > Award (none)
+2019.04.24 20:54.48 I Step 5 > Scroll 0
+2019.04.24 20:54.48 I Step 6 > Pause 1
+2019.04.24 20:54.48 I **Paused at 1**
+2019.04.24 20:54.48 I No logo found for team 1001: No image found
+2019.04.24 20:54.48 I No logo found for team 1002: No image found
+2019.04.24 20:54.48 I No logo found for team 1003: No image found
+2019.04.24 20:54.48 I No logo found for team 1004: No image found
+2019.04.24 20:54.48 I No logo found for team 1005: No image found
+2019.04.24 20:54.48 I No logo found for team 1007: No image found
+2019.04.24 20:54.48 I No logo found for team 1008: No image found
+2019.04.24 20:54.48 I No logo found for team 1009: No image found
+2019.04.24 20:54.48 I No logo found for team 10010: No image found
+2019.04.24 20:54.48 I No logo found for team 10011: No image found
+2019.04.24 20:54.48 I No logo found for team 10012: No image found
+2019.04.24 20:54.48 I No logo found for team 10013: No image found
+2019.04.24 20:54.48 I No logo found for team 10014: No image found
+2019.04.24 20:54.48 I No logo found for team 10015: No image found
+2019.04.24 20:54.48 I No logo found for team 10016: No image found
+2019.04.24 20:54.48 I No logo found for team 10017: No image found
+2019.04.24 20:54.48 I No logo found for team 10018: No image found
+2019.04.24 20:54.48 I No logo found for team 10019: No image found
+2019.04.24 20:54.48 I No logo found for team 10020: No image found
+2019.04.24 20:54.48 I No logo found for team 10021: No image found
+2019.04.24 20:54.48 I No logo found for team 10022: No image found
+2019.04.24 20:54.48 I No logo found for team 10023: No image found
+2019.04.24 20:54.48 I No logo found for team 10024: No image found
+2019.04.24 20:54.48 I No logo found for team 10025: No image found
+2019.04.24 20:54.48 I No logo found for team 10026: No image found
+2019.04.24 20:54.48 I No logo found for team 10027: No image found
+2019.04.24 20:54.48 I No logo found for team 10028: No image found
+2019.04.24 20:54.48 I No logo found for team 10029: No image found
+2019.04.24 20:54.48 I No logo found for team 10030: No image found
+2019.04.24 20:54.48 I No logo found for team 1: No image found
+2019.04.24 20:54.48 I No logo found for team 2: No image found
+2019.04.24 20:54.48 I No logo found for team 3: No image found
+2019.04.24 20:54.48 I No logo found for team 4: No image found
+2019.04.24 20:54.48 I No logo found for team 5: No image found
+2019.04.24 20:54.48 I No logo found for team 6: No image found
+2019.04.24 20:54.48 I No logo found for team 7: No image found
+2019.04.24 20:54.48 I No logo found for team 8: No image found
+2019.04.24 20:54.48 I No logo found for team 9: No image found
+2019.04.24 20:54.48 I No logo found for team 11: No image found
+2019.04.24 20:54.48 I No logo found for team 12: No image found
+2019.04.24 20:54.48 I No logo found for team 13: No image found
+2019.04.24 20:54.48 I No logo found for team 14: No image found
+2019.04.24 20:54.48 I No logo found for team 15: No image found
+2019.04.24 20:54.48 I No logo found for team 16: No image found
+2019.04.24 20:54.48 I No logo found for team 17: No image found
+2019.04.24 20:54.48 I No logo found for team 18: No image found
+2019.04.24 20:54.48 I No logo found for team 19: No image found
+2019.04.24 20:54.48 I No logo found for team 20: No image found
+2019.04.24 20:54.48 I No logo found for team 21: No image found
+2019.04.24 20:54.48 I No logo found for team 22: No image found
+2019.04.24 20:54.48 I No logo found for team 23: No image found
+2019.04.24 20:54.48 I No logo found for team 24: No image found
+2019.04.24 20:54.48 I No logo found for team 25: No image found
+2019.04.24 20:54.48 I No logo found for team 26: No image found
+2019.04.24 20:54.48 I No logo found for team 27: No image found
+2019.04.24 20:54.48 I No logo found for team 28: No image found
+2019.04.24 20:54.48 I No logo found for team 29: No image found
+2019.04.24 20:54.48 I No logo found for team 30: No image found
+2019.04.24 20:54.48 I No logo found for team 31: No image found
+2019.04.24 20:54.48 I No logo found for team 33: No image found
+2019.04.24 20:54.48 I No logo found for team 34: No image found
+2019.04.24 20:54.48 I No logo found for team 35: No image found
+2019.04.24 20:54.48 I No logo found for team 36: No image found
+2019.04.24 20:54.48 I No logo found for team 37: No image found
+2019.04.24 20:54.48 I No logo found for team 38: No image found
+2019.04.24 20:54.48 I No logo found for team 39: No image found
+2019.04.24 20:54.48 I No logo found for team 40: No image found
+2019.04.24 20:54.48 I No logo found for team 41: No image found
+2019.04.24 20:54.48 I No logo found for team 42: No image found
+2019.04.24 20:54.48 I No logo found for team 43: No image found
+2019.04.24 20:54.48 I No logo found for team 44: No image found
+2019.04.24 20:54.48 I No logo found for team 45: No image found
+2019.04.24 20:54.48 I No logo found for team 46: No image found
+2019.04.24 20:54.48 I No logo found for team 47: No image found
+2019.04.24 20:54.48 I No logo found for team 48: No image found
+2019.04.24 20:54.48 I No logo found for team 49: No image found
+2019.04.24 20:54.48 I No logo found for team 50: No image found
+2019.04.24 20:54.48 I No logo found for team 51: No image found
+2019.04.24 20:54.48 I No logo found for team 52: No image found
+2019.04.24 20:54.48 I No logo found for team 53: No image found
+2019.04.24 20:54.48 I No logo found for team 54: No image found
+2019.04.24 20:54.48 I No logo found for team 55: No image found
+2019.04.24 20:54.48 I No logo found for team 56: No image found
+2019.04.24 20:54.48 I No logo found for team 57: No image found
+2019.04.24 20:54.48 I No logo found for team 58: No image found
+2019.04.24 20:54.48 I No logo found for team 59: No image found
+2019.04.24 20:54.48 I No logo found for team 60: No image found
+2019.04.24 20:54.52 I 
+**Action: FORWARD from 1**
+2019.04.24 20:54.52 I Step 7 > Scroll 79
+2019.04.24 20:54.52 I Step 8 > Pause 2
+2019.04.24 20:54.52 I **Paused at 2**
+2019.04.24 20:55.13 I 
+**Action: FORWARD from 2**
+2019.04.24 20:55.13 I Step 9 > Select team 60: cqupc18_team60
+2019.04.24 20:55.13 I Step 10 > Pause 3
+2019.04.24 20:55.13 I **Paused at 3**
+2019.04.24 20:55.14 I 
+**Action: FORWARD from 3**
+2019.04.24 20:55.14 I Step 11 > Scroll 79
+2019.04.24 20:55.14 I Step 12 > Delay SELECT_ROW
+2019.04.24 20:55.16 I Step 13 > Scroll 78
+2019.04.24 20:55.16 I Step 14 > Select team 59: cqupc18_team59
+2019.04.24 20:55.16 I Step 15 > Delay SELECT_ROW
+2019.04.24 20:55.17 I Step 16 > Scroll 77
+2019.04.24 20:55.17 I Step 17 > Select team 58: cqupc18_team58
+2019.04.24 20:55.17 I Step 18 > Delay SELECT_ROW
+2019.04.24 20:55.19 I Step 19 > Scroll 76
+2019.04.24 20:55.19 I Step 20 > Select team 57: cqupc18_team57
+2019.04.24 20:55.19 I Step 21 > Delay SELECT_ROW
+2019.04.24 20:55.20 I Step 22 > Scroll 75
+2019.04.24 20:55.20 I Step 23 > Select team 56: cqupc18_team56
+2019.04.24 20:55.20 I Step 24 > Delay SELECT_ROW
+2019.04.24 20:55.22 I Step 25 > Scroll 74
+2019.04.24 20:55.22 I Step 26 > Select team 55: cqupc18_team55
+2019.04.24 20:55.22 I Step 27 > Delay SELECT_ROW
+2019.04.24 20:55.23 I Step 28 > Scroll 73
+2019.04.24 20:55.23 I Step 29 > Select team 54: cqupc18_team54
+2019.04.24 20:55.23 I Step 30 > Delay SELECT_ROW
+2019.04.24 20:55.25 I Step 31 > Scroll 72
+2019.04.24 20:55.25 I Step 32 > Select team 53: cqupc18_team53
+2019.04.24 20:55.25 I Step 33 > Delay SELECT_ROW
+2019.04.24 20:55.26 I Step 34 > Scroll 71
+2019.04.24 20:55.26 I Step 35 > Select team 52: cqupc18_team52
+2019.04.24 20:55.26 I Step 36 > Delay SELECT_ROW
+2019.04.24 20:55.28 I Step 37 > Scroll 70
+2019.04.24 20:55.28 I Step 38 > Select team 51: cqupc18_team51
+2019.04.24 20:55.28 I Step 39 > Delay SELECT_ROW
+2019.04.24 20:55.29 I Step 40 > Scroll 69
+2019.04.24 20:55.29 I Step 41 > Select team 40: cqupc18_team40
+2019.04.24 20:55.29 I Step 42 > Delay SELECT_ROW
+2019.04.24 20:55.31 I Step 43 > Scroll 68
+2019.04.24 20:55.31 I Step 44 > Select team 39: cqupc18_team39
+2019.04.24 20:55.31 I Step 45 > Delay SELECT_ROW
+2019.04.24 20:55.32 I Step 46 > Scroll 67
+2019.04.24 20:55.32 I Step 47 > Select team 22: cqupc18_team22
+2019.04.24 20:55.32 I Step 48 > Delay SELECT_ROW
+2019.04.24 20:55.34 I Step 49 > Scroll 66
+2019.04.24 20:55.34 I Step 50 > Select team 12: cqupc18_team12
+2019.04.24 20:55.34 I Step 51 > Delay SELECT_ROW
+2019.04.24 20:55.35 I Step 52 > Scroll 65
+2019.04.24 20:55.35 I Step 53 > Select team 1007: *cqupc18_team7
+2019.04.24 20:55.35 I Step 54 > Delay SELECT_ROW
+2019.04.24 20:55.37 I Step 55 > Scroll 64
+2019.04.24 20:55.37 I Step 56 > Select team 10030: *cqupc18_team30
+2019.04.24 20:55.37 I Step 57 > Delay SELECT_ROW
+2019.04.24 20:55.38 I Step 58 > Scroll 63
+2019.04.24 20:55.38 I Step 59 > Select team 10029: *cqupc18_team29
+2019.04.24 20:55.38 I Step 60 > Delay SELECT_ROW
+2019.04.24 20:55.40 I Step 61 > Scroll 62
+2019.04.24 20:55.40 I Step 62 > Select team 10028: *cqupc18_team28
+2019.04.24 20:55.40 I Step 63 > Delay SELECT_ROW
+2019.04.24 20:55.41 I Step 64 > Scroll 61
+2019.04.24 20:55.41 I Step 65 > Select team 10027: *cqupc18_team27
+2019.04.24 20:55.41 I Step 66 > Delay SELECT_ROW
+2019.04.24 20:55.43 I Step 67 > Scroll 60
+2019.04.24 20:55.43 I Step 68 > Select team 10026: *cqupc18_team26
+2019.04.24 20:55.43 I Step 69 > Delay SELECT_ROW
+2019.04.24 20:55.44 I Step 70 > Scroll 59
+2019.04.24 20:55.44 I Step 71 > Select team 10025: *cqupc18_team25
+2019.04.24 20:55.44 I Step 72 > Delay SELECT_ROW
+2019.04.24 20:55.46 I Step 73 > Scroll 58
+2019.04.24 20:55.46 I Step 74 > Select team 10024: *cqupc18_team24
+2019.04.24 20:55.46 I Step 75 > Delay SELECT_ROW
+2019.04.24 20:55.47 I Step 76 > Scroll 57
+2019.04.24 20:55.47 I Step 77 > Select team 10023: *cqupc18_team23
+2019.04.24 20:55.47 I Step 78 > Delay SELECT_ROW
+2019.04.24 20:55.49 I Step 79 > Scroll 56
+2019.04.24 20:55.49 I Step 80 > Select team 10022: *cqupc18_team22
+2019.04.24 20:55.49 I Step 81 > Delay SELECT_ROW
+2019.04.24 20:55.50 I Step 82 > Scroll 55
+2019.04.24 20:55.50 I Step 83 > Select team 10021: *cqupc18_team21
+2019.04.24 20:55.50 I Step 84 > Delay SELECT_ROW
+2019.04.24 20:55.52 I Step 85 > Scroll 54
+2019.04.24 20:55.52 I Step 86 > Select team 10020: *cqupc18_team20
+2019.04.24 20:55.52 I Step 87 > Delay SELECT_ROW
+2019.04.24 20:55.53 I Step 88 > Scroll 53
+2019.04.24 20:55.53 I Step 89 > Select team 11: cqupc18_team11
+2019.04.24 20:55.53 I Step 90 > Delay SELECT_ROW
+2019.04.24 20:55.55 I Step 91 > Select run 3 for team 11
+2019.04.24 20:55.55 I Step 92 > Delay SELECT_RUN
+2019.04.24 20:55.56 I Step 93 > Contest state
+2019.04.24 20:55.56 I Step 94 > Delay SOLVED_MOVE
+2019.04.24 20:55.58 I Step 95 > Select run null
+2019.04.24 20:55.58 I Step 96 > Delay DESELECT
+2019.04.24 20:55.58 I Step 97 > Select team 45: cqupc18_team45
+2019.04.24 20:55.58 I Step 98 > Delay SELECT_ROW
+2019.04.24 20:56.00 I Step 99 > Select run 4 for team 45
+2019.04.24 20:56.00 I Step 100 > Delay SELECT_RUN
+2019.04.24 20:56.01 I Step 101 > Contest state
+2019.04.24 20:56.01 I Step 102 > Delay FAILED
+2019.04.24 20:56.02 I Step 103 > Select run null
+2019.04.24 20:56.02 I Step 104 > Delay DESELECT
+2019.04.24 20:56.02 I Step 105 > Scroll 52
+2019.04.24 20:56.02 I Step 106 > Select team 46: cqupc18_team46
+2019.04.24 20:56.02 I Step 107 > Delay SELECT_ROW
+2019.04.24 20:56.03 I Step 108 > Select run 4 for team 46
+2019.04.24 20:56.03 I Step 109 > Delay SELECT_RUN
+2019.04.24 20:56.04 I Step 110 > Contest state
+2019.04.24 20:56.04 I Step 111 > Delay FAILED
+2019.04.24 20:56.05 I Step 112 > Select run null
+2019.04.24 20:56.05 I Step 113 > Delay DESELECT
+2019.04.24 20:56.05 I Step 114 > Select run 6 for team 46
+2019.04.24 20:56.05 I Step 115 > Delay SELECT_RUN
+2019.04.24 20:56.06 I Step 116 > Contest state
+2019.04.24 20:56.06 I Step 117 > Delay FAILED
+2019.04.24 20:56.07 I Step 118 > Select run null
+2019.04.24 20:56.07 I Step 119 > Delay DESELECT
+2019.04.24 20:56.08 I Step 120 > Scroll 51
+2019.04.24 20:56.08 I Step 121 > Select team 35: cqupc18_team35
+2019.04.24 20:56.08 I Step 122 > Delay SELECT_ROW
+2019.04.24 20:56.09 I Step 123 > Select run 3 for team 35
+2019.04.24 20:56.09 I Step 124 > Delay SELECT_RUN
+2019.04.24 20:56.10 I Step 125 > Contest state
+2019.04.24 20:56.10 I Step 126 > Delay FAILED
+2019.04.24 20:56.11 I Step 127 > Select run null
+2019.04.24 20:56.11 I Step 128 > Delay DESELECT
+2019.04.24 20:56.11 I Step 129 > Scroll 50
+2019.04.24 20:56.11 I Step 130 > Select team 26: cqupc18_team26
+2019.04.24 20:56.11 I Step 131 > Delay SELECT_ROW
+2019.04.24 20:56.13 I Step 132 > Select run 3 for team 26
+2019.04.24 20:56.13 I Step 133 > Delay SELECT_RUN
+2019.04.24 20:56.14 I Step 134 > Contest state
+2019.04.24 20:56.14 I Step 135 > Delay FAILED
+2019.04.24 20:56.14 I Step 136 > Select run null
+2019.04.24 20:56.14 I Step 137 > Delay DESELECT
+2019.04.24 20:56.15 I Step 138 > Select run 4 for team 26
+2019.04.24 20:56.15 I Step 139 > Delay SELECT_RUN
+2019.04.24 20:56.16 I Step 140 > Contest state
+2019.04.24 20:56.16 I Step 141 > Delay SOLVED_MOVE
+2019.04.24 20:56.18 I Step 142 > Select run null
+2019.04.24 20:56.18 I Step 143 > Delay DESELECT
+2019.04.24 20:56.18 I Step 144 > Select team 32: cqupc18_team32
+2019.04.24 20:56.18 I Step 145 > Delay SELECT_ROW
+2019.04.24 20:56.20 I Step 146 > Select run 0 for team 32
+2019.04.24 20:56.20 I Step 147 > Delay SELECT_RUN
+2019.04.24 20:56.21 I Step 148 > Contest state
+2019.04.24 20:56.21 I Step 149 > Delay SOLVED_MOVE
+2019.04.24 20:56.23 I Step 150 > Select run null
+2019.04.24 20:56.23 I Step 151 > Delay DESELECT
+2019.04.24 20:56.23 I Step 152 > Select team 38: cqupc18_team38
+2019.04.24 20:56.23 I Step 153 > Delay SELECT_ROW
+2019.04.24 20:56.25 I Step 154 > Select run 3 for team 38
+2019.04.24 20:56.25 I Step 155 > Delay SELECT_RUN
+2019.04.24 20:56.26 I Step 156 > Contest state
+2019.04.24 20:56.26 I Step 157 > Delay SOLVED_MOVE
+2019.04.24 20:56.28 I Step 158 > Select run null
+2019.04.24 20:56.28 I Step 159 > Delay DESELECT
+2019.04.24 20:56.28 I Step 160 > Select team 31: cqupc18_team31
+2019.04.24 20:56.28 I Step 161 > Delay SELECT_ROW
+2019.04.24 20:56.30 I Step 162 > Select run 3 for team 31
+2019.04.24 20:56.30 I Step 163 > Delay SELECT_RUN
+2019.04.24 20:56.31 I Step 164 > Contest state
+2019.04.24 20:56.31 I Step 165 > Delay SOLVED_MOVE
+2019.04.24 20:56.33 I Step 166 > Select run null
+2019.04.24 20:56.33 I Step 167 > Delay DESELECT
+2019.04.24 20:56.33 I Step 168 > Select team 23: cqupc18_team23
+2019.04.24 20:56.33 I Step 169 > Delay SELECT_ROW
+2019.04.24 20:56.35 I Step 170 > Select run 3 for team 23
+2019.04.24 20:56.35 I Step 171 > Delay SELECT_RUN
+2019.04.24 20:56.36 I Step 172 > Contest state
+2019.04.24 20:56.36 I Step 173 > Delay FAILED
+2019.04.24 20:56.37 I Step 174 > Select run null
+2019.04.24 20:56.37 I Step 175 > Delay DESELECT
+2019.04.24 20:56.37 I Step 176 > Scroll 49
+2019.04.24 20:56.37 I Step 177 > Select team 49: cqupc18_team49
+2019.04.24 20:56.37 I Step 178 > Delay SELECT_ROW
+2019.04.24 20:56.38 I Step 179 > Select run 3 for team 49
+2019.04.24 20:56.38 I Step 180 > Delay SELECT_RUN
+2019.04.24 20:56.39 I Step 181 > Contest state
+2019.04.24 20:56.39 I Step 182 > Delay FAILED
+2019.04.24 20:56.40 I Step 183 > Select run null
+2019.04.24 20:56.40 I Step 184 > Delay DESELECT
+2019.04.24 20:56.40 I Step 185 > Select run 4 for team 49
+2019.04.24 20:56.40 I Step 186 > Delay SELECT_RUN
+2019.04.24 20:56.41 I Step 187 > Contest state
+2019.04.24 20:56.41 I Step 188 > Delay FAILED
+2019.04.24 20:56.42 I Step 189 > Select run null
+2019.04.24 20:56.42 I Step 190 > Delay DESELECT
+2019.04.24 20:56.43 I Step 191 > Select run 7 for team 49
+2019.04.24 20:56.43 I Step 192 > Delay SELECT_RUN
+2019.04.24 20:56.44 I Step 193 > Contest state
+2019.04.24 20:56.44 I Step 194 > Delay FAILED
+2019.04.24 20:56.44 I Step 195 > Select run null
+2019.04.24 20:56.44 I Step 196 > Delay DESELECT
+2019.04.24 20:56.45 I Step 197 > Scroll 48
+2019.04.24 20:56.45 I Step 198 > Select team 48: cqupc18_team48
+2019.04.24 20:56.45 I Step 199 > Delay SELECT_ROW
+2019.04.24 20:56.46 I Step 200 > Select run 3 for team 48
+2019.04.24 20:56.46 I Step 201 > Delay SELECT_RUN
+2019.04.24 20:56.47 I Step 202 > Contest state
+2019.04.24 20:56.47 I Step 203 > Delay SOLVED_MOVE
+2019.04.24 20:56.49 I Step 204 > Select run null
+2019.04.24 20:56.49 I Step 205 > Delay DESELECT
+2019.04.24 20:56.50 I Step 206 > Select team 29: cqupc18_team29
+2019.04.24 20:56.50 I Step 207 > Delay SELECT_ROW
+2019.04.24 20:56.51 I Step 208 > Select run 4 for team 29
+2019.04.24 20:56.51 I Step 209 > Delay SELECT_RUN
+2019.04.24 20:56.52 I Step 210 > Contest state
+2019.04.24 20:56.52 I Step 211 > Delay FAILED
+2019.04.24 20:56.53 I Step 212 > Select run null
+2019.04.24 20:56.53 I Step 213 > Delay DESELECT
+2019.04.24 20:56.53 I Step 214 > Select run 5 for team 29
+2019.04.24 20:56.53 I Step 215 > Delay SELECT_RUN
+2019.04.24 20:56.54 I Step 216 > Contest state
+2019.04.24 20:56.54 I Step 217 > Delay FAILED
+2019.04.24 20:56.55 I Step 218 > Select run null
+2019.04.24 20:56.55 I Step 219 > Delay DESELECT
+2019.04.24 20:56.55 I Step 220 > Scroll 47
+2019.04.24 20:56.55 I Step 221 > Select team 50: cqupc18_team50
+2019.04.24 20:56.55 I Step 222 > Delay SELECT_ROW
+2019.04.24 20:56.57 I Step 223 > Select run 4 for team 50
+2019.04.24 20:56.57 I Step 224 > Delay SELECT_RUN
+2019.04.24 20:56.58 I Step 225 > Contest state
+2019.04.24 20:56.58 I Step 226 > Delay FAILED
+2019.04.24 20:56.59 I Step 227 > Select run null
+2019.04.24 20:56.59 I Step 228 > Delay DESELECT
+2019.04.24 20:56.59 I Step 229 > Scroll 46
+2019.04.24 20:56.59 I Step 230 > Select team 37: cqupc18_team37
+2019.04.24 20:56.59 I Step 231 > Delay SELECT_ROW
+2019.04.24 20:57.00 I Step 232 > Select run 4 for team 37
+2019.04.24 20:57.00 I Step 233 > Delay SELECT_RUN
+2019.04.24 20:57.01 I Step 234 > Contest state
+2019.04.24 20:57.01 I Step 235 > Delay FAILED
+2019.04.24 20:57.02 I Step 236 > Select run null
+2019.04.24 20:57.02 I Step 237 > Delay DESELECT
+2019.04.24 20:57.03 I Step 238 > Scroll 45
+2019.04.24 20:57.03 I Step 239 > Select team 32: cqupc18_team32
+2019.04.24 20:57.03 I Step 240 > Delay SELECT_ROW
+2019.04.24 20:57.04 I Step 241 > Select run 5 for team 32
+2019.04.24 20:57.04 I Step 242 > Delay SELECT_RUN
+2019.04.24 20:57.05 I Step 243 > Contest state
+2019.04.24 20:57.05 I Step 244 > Delay FAILED
+2019.04.24 20:57.06 I Step 245 > Select run null
+2019.04.24 20:57.06 I Step 246 > Delay DESELECT
+2019.04.24 20:57.06 I Step 247 > Select team 32: cqupc18_team32
+2019.04.24 20:57.06 I Step 248 > Pause 4
+2019.04.24 20:57.06 I **Paused at 4**
+2019.04.24 20:57.10 I 
+**Action: FORWARD from 4**
+2019.04.24 20:57.10 I Step 249 > Award 1
+2019.04.24 20:57.10 I Step 250 > Pause 5
+2019.04.24 20:57.10 I **Paused at 5**
+2019.04.24 20:57.20 I 
+**Action: FORWARD from 5**
+2019.04.24 20:57.20 I Step 251 > Award (none)
+2019.04.24 20:57.20 I Step 252 > Pause 6
+2019.04.24 20:57.20 I **Paused at 6**
+2019.04.24 20:57.21 I 
+**Action: FORWARD from 6**
+2019.04.24 20:57.21 I Step 253 > Scroll 44
+2019.04.24 20:57.21 I Step 254 > Select team 47: cqupc18_team47
+2019.04.24 20:57.21 I Step 255 > Delay SELECT_ROW
+2019.04.24 20:57.22 I Step 256 > Scroll 43
+2019.04.24 20:57.22 I Step 257 > Select team 27: cqupc18_team27
+2019.04.24 20:57.22 I Step 258 > Delay SELECT_ROW
+2019.04.24 20:57.24 I Step 259 > Select run 4 for team 27
+2019.04.24 20:57.24 I Step 260 > Delay SELECT_RUN
+2019.04.24 20:57.25 I Step 261 > Contest state
+2019.04.24 20:57.25 I Step 262 > Delay FAILED
+2019.04.24 20:57.26 I Step 263 > Select run null
+2019.04.24 20:57.26 I Step 264 > Delay DESELECT
+2019.04.24 20:57.26 I Step 265 > Scroll 42
+2019.04.24 20:57.26 I Step 266 > Select team 36: cqupc18_team36
+2019.04.24 20:57.26 I Step 267 > Delay SELECT_ROW
+2019.04.24 20:57.28 I Step 268 > Select run 4 for team 36
+2019.04.24 20:57.28 I Step 269 > Delay SELECT_RUN
+2019.04.24 20:57.29 I Step 270 > Contest state
+2019.04.24 20:57.29 I Step 271 > Delay FAILED
+2019.04.24 20:57.29 I Step 272 > Select run null
+2019.04.24 20:57.29 I Step 273 > Delay DESELECT
+2019.04.24 20:57.30 I Step 274 > Select run 7 for team 36
+2019.04.24 20:57.30 I Step 275 > Delay SELECT_RUN
+2019.04.24 20:57.31 I Step 276 > Contest state
+2019.04.24 20:57.31 I Step 277 > Delay FAILED
+2019.04.24 20:57.31 I Step 278 > Select run null
+2019.04.24 20:57.31 I Step 279 > Delay DESELECT
+2019.04.24 20:57.32 I Step 280 > Scroll 41
+2019.04.24 20:57.32 I Step 281 > Select team 17: cqupc18_team17
+2019.04.24 20:57.32 I Step 282 > Delay SELECT_ROW
+2019.04.24 20:57.33 I Step 283 > Select run 4 for team 17
+2019.04.24 20:57.33 I Step 284 > Delay SELECT_RUN
+2019.04.24 20:57.34 I Step 285 > Contest state
+2019.04.24 20:57.34 I Step 286 > Delay FAILED
+2019.04.24 20:57.35 I Step 287 > Select run null
+2019.04.24 20:57.35 I Step 288 > Delay DESELECT
+2019.04.24 20:57.35 I Step 289 > Scroll 40
+2019.04.24 20:57.35 I Step 290 > Select team 31: cqupc18_team31
+2019.04.24 20:57.35 I Step 291 > Delay SELECT_ROW
+2019.04.24 20:57.37 I Step 292 > Select run 6 for team 31
+2019.04.24 20:57.37 I Step 293 > Delay SELECT_RUN
+2019.04.24 20:57.38 I Step 294 > Contest state
+2019.04.24 20:57.38 I Step 295 > Delay FAILED
+2019.04.24 20:57.39 I Step 296 > Select run null
+2019.04.24 20:57.39 I Step 297 > Delay DESELECT
+2019.04.24 20:57.39 I Step 298 > Scroll 39
+2019.04.24 20:57.39 I Step 299 > Select team 11: cqupc18_team11
+2019.04.24 20:57.39 I Step 300 > Delay SELECT_ROW
+2019.04.24 20:57.40 I Step 301 > Select run 6 for team 11
+2019.04.24 20:57.40 I Step 302 > Delay SELECT_RUN
+2019.04.24 20:57.41 I Step 303 > Contest state
+2019.04.24 20:57.41 I Step 304 > Delay FAILED
+2019.04.24 20:57.42 I Step 305 > Select run null
+2019.04.24 20:57.42 I Step 306 > Delay DESELECT
+2019.04.24 20:57.43 I Step 307 > Scroll 38
+2019.04.24 20:57.43 I Step 308 > Select team 34: cqupc18_team34
+2019.04.24 20:57.43 I Step 309 > Delay SELECT_ROW
+2019.04.24 20:57.44 I Step 310 > Scroll 37
+2019.04.24 20:57.44 I Step 311 > Select team 26: cqupc18_team26
+2019.04.24 20:57.44 I Step 312 > Delay SELECT_ROW
+2019.04.24 20:57.46 I Step 313 > Scroll 36
+2019.04.24 20:57.46 I Step 314 > Select team 38: cqupc18_team38
+2019.04.24 20:57.46 I Step 315 > Delay SELECT_ROW
+2019.04.24 20:57.47 I Step 316 > Select run 6 for team 38
+2019.04.24 20:57.47 I Step 317 > Delay SELECT_RUN
+2019.04.24 20:57.48 I Step 318 > Contest state
+2019.04.24 20:57.48 I Step 319 > Delay FAILED
+2019.04.24 20:57.49 I Step 320 > Select run null
+2019.04.24 20:57.49 I Step 321 > Delay DESELECT
+2019.04.24 20:57.49 I Step 322 > Scroll 35
+2019.04.24 20:57.49 I Step 323 > Select team 42: cqupc18_team42
+2019.04.24 20:57.49 I Step 324 > Delay SELECT_ROW
+2019.04.24 20:57.51 I Step 325 > Select run 4 for team 42
+2019.04.24 20:57.51 I Step 326 > Delay SELECT_RUN
+2019.04.24 20:57.52 I Step 327 > Contest state
+2019.04.24 20:57.52 I Step 328 > Delay FAILED
+2019.04.24 20:57.52 I Step 329 > Select run null
+2019.04.24 20:57.52 I Step 330 > Delay DESELECT
+2019.04.24 20:57.53 I Step 331 > Scroll 34
+2019.04.24 20:57.53 I Step 332 > Select team 14: cqupc18_team14
+2019.04.24 20:57.53 I Step 333 > Delay SELECT_ROW
+2019.04.24 20:57.54 I Step 334 > Select run 4 for team 14
+2019.04.24 20:57.54 I Step 335 > Delay SELECT_RUN
+2019.04.24 20:57.55 I Step 336 > Contest state
+2019.04.24 20:57.55 I Step 337 > Delay FAILED
+2019.04.24 20:57.56 I Step 338 > Select run null
+2019.04.24 20:57.56 I Step 339 > Delay DESELECT
+2019.04.24 20:57.56 I Step 340 > Scroll 33
+2019.04.24 20:57.56 I Step 341 > Select team 48: cqupc18_team48
+2019.04.24 20:57.56 I Step 342 > Delay SELECT_ROW
+2019.04.24 20:57.58 I Step 343 > Select run 4 for team 48
+2019.04.24 20:57.58 I Step 344 > Delay SELECT_RUN
+2019.04.24 20:57.59 I Step 345 > Contest state
+2019.04.24 20:57.59 I Step 346 > Delay SOLVED_MOVE
+2019.04.24 20:58.01 I Step 347 > Select run null
+2019.04.24 20:58.01 I Step 348 > Delay DESELECT
+2019.04.24 20:58.01 I Step 349 > Select team 44: cqupc18_team44
+2019.04.24 20:58.01 I Step 350 > Delay SELECT_ROW
+2019.04.24 20:58.03 I Step 351 > Select run 4 for team 44
+2019.04.24 20:58.03 I Step 352 > Delay SELECT_RUN
+2019.04.24 20:58.04 I Step 353 > Contest state
+2019.04.24 20:58.04 I Step 354 > Delay FAILED
+2019.04.24 20:58.05 I Step 355 > Select run null
+2019.04.24 20:58.05 I Step 356 > Delay DESELECT
+2019.04.24 20:58.05 I Step 357 > Select run 7 for team 44
+2019.04.24 20:58.05 I Step 358 > Delay SELECT_RUN
+2019.04.24 20:58.06 I Step 359 > Contest state
+2019.04.24 20:58.06 I Step 360 > Delay FAILED
+2019.04.24 20:58.07 I Step 361 > Select run null
+2019.04.24 20:58.07 I Step 362 > Delay DESELECT
+2019.04.24 20:58.07 I Step 363 > Scroll 32
+2019.04.24 20:58.07 I Step 364 > Select team 10014: *cqupc18_team14
+2019.04.24 20:58.07 I Step 365 > Delay SELECT_ROW
+2019.04.24 20:58.09 I Step 366 > Select run 4 for team 10014
+2019.04.24 20:58.09 I Step 367 > Delay SELECT_RUN
+2019.04.24 20:58.10 I Step 368 > Contest state
+2019.04.24 20:58.10 I Step 369 > Delay SOLVED_MOVE
+2019.04.24 20:58.12 I Step 370 > Select run null
+2019.04.24 20:58.12 I Step 371 > Delay DESELECT
+2019.04.24 20:58.12 I Step 372 > Select team 18: cqupc18_team18
+2019.04.24 20:58.12 I Step 373 > Delay SELECT_ROW
+2019.04.24 20:58.14 I Step 374 > Select run 4 for team 18
+2019.04.24 20:58.14 I Step 375 > Delay SELECT_RUN
+2019.04.24 20:58.15 I Step 376 > Contest state
+2019.04.24 20:58.15 I Step 377 > Delay FAILED
+2019.04.24 20:58.15 I Step 378 > Select run null
+2019.04.24 20:58.15 I Step 379 > Delay DESELECT
+2019.04.24 20:58.16 I Step 380 > Scroll 31
+2019.04.24 20:58.16 I Step 381 > Select team 8: cqupc18_team8
+2019.04.24 20:58.16 I Step 382 > Delay SELECT_ROW
+2019.04.24 20:58.17 I Step 383 > Select run 4 for team 8
+2019.04.24 20:58.17 I Step 384 > Delay SELECT_RUN
+2019.04.24 20:58.18 I Step 385 > Contest state
+2019.04.24 20:58.18 I Step 386 > Delay FAILED
+2019.04.24 20:58.19 I Step 387 > Select run null
+2019.04.24 20:58.19 I Step 388 > Delay DESELECT
+2019.04.24 20:58.19 I Step 389 > Scroll 30
+2019.04.24 20:58.19 I Step 390 > Select team 10: cqupc18_team10
+2019.04.24 20:58.19 I Step 391 > Delay SELECT_ROW
+2019.04.24 20:58.21 I Step 392 > Select run 4 for team 10
+2019.04.24 20:58.21 I Step 393 > Delay SELECT_RUN
+2019.04.24 20:58.22 I Step 394 > Contest state
+2019.04.24 20:58.22 I Step 395 > Delay FAILED
+2019.04.24 20:58.23 I Step 396 > Select run null
+2019.04.24 20:58.23 I Step 397 > Delay DESELECT
+2019.04.24 20:58.23 I Step 398 > Select team 10: cqupc18_team10
+2019.04.24 20:58.23 I Step 399 > Pause 7
+2019.04.24 20:58.23 I **Paused at 7**
+2019.04.24 20:58.28 I 
+**Action: FORWARD from 7**
+2019.04.24 20:58.28 I Step 400 > Award 1
+2019.04.24 20:58.28 I Step 401 > Pause 8
+2019.04.24 20:58.28 I **Paused at 8**
+2019.04.24 20:58.28 I No image found for team 16: No image found
+2019.04.24 20:58.31 I 
+**Action: FORWARD from 8**
+2019.04.24 20:58.31 I Step 402 > Award (none)
+2019.04.24 20:58.31 I Step 403 > Pause 9
+2019.04.24 20:58.31 I **Paused at 9**
+2019.04.24 20:58.33 I 
+**Action: FORWARD from 9**
+2019.04.24 20:58.33 I Step 404 > Scroll 29
+2019.04.24 20:58.33 I Step 405 > Select team 25: cqupc18_team25
+2019.04.24 20:58.33 I Step 406 > Delay SELECT_ROW
+2019.04.24 20:58.34 I Step 407 > Select run 4 for team 25
+2019.04.24 20:58.34 I Step 408 > Delay SELECT_RUN
+2019.04.24 20:58.35 I Step 409 > Contest state
+2019.04.24 20:58.35 I Step 410 > Delay FAILED
+2019.04.24 20:58.36 I Step 411 > Select run null
+2019.04.24 20:58.36 I Step 412 > Delay DESELECT
+2019.04.24 20:58.36 I Step 413 > Scroll 28
+2019.04.24 20:58.36 I Step 414 > Select team 21: cqupc18_team21
+2019.04.24 20:58.36 I Step 415 > Delay SELECT_ROW
+2019.04.24 20:58.38 I Step 416 > Select run 4 for team 21
+2019.04.24 20:58.38 I Step 417 > Delay SELECT_RUN
+2019.04.24 20:58.39 I Step 418 > Contest state
+2019.04.24 20:58.39 I Step 419 > Delay FAILED
+2019.04.24 20:58.40 I Step 420 > Select run null
+2019.04.24 20:58.40 I Step 421 > Delay DESELECT
+2019.04.24 20:58.40 I Step 422 > Scroll 27
+2019.04.24 20:58.40 I Step 423 > Select team 1003: *cqupc18_team3
+2019.04.24 20:58.40 I Step 424 > Delay SELECT_ROW
+2019.04.24 20:58.41 I Step 425 > Scroll 26
+2019.04.24 20:58.41 I Step 426 > Select team 33: cqupc18_team33
+2019.04.24 20:58.41 I Step 427 > Delay SELECT_ROW
+2019.04.24 20:58.43 I Step 428 > Select run 4 for team 33
+2019.04.24 20:58.43 I Step 429 > Delay SELECT_RUN
+2019.04.24 20:58.44 I Step 430 > Contest state
+2019.04.24 20:58.44 I Step 431 > Delay FAILED
+2019.04.24 20:58.45 I Step 432 > Select run null
+2019.04.24 20:58.45 I Step 433 > Delay DESELECT
+2019.04.24 20:58.45 I Step 434 > Scroll 25
+2019.04.24 20:58.45 I Step 435 > Select team 19: cqupc18_team19
+2019.04.24 20:58.45 I Step 436 > Delay SELECT_ROW
+2019.04.24 20:58.46 I Step 437 > Select run 4 for team 19
+2019.04.24 20:58.46 I Step 438 > Delay SELECT_RUN
+2019.04.24 20:58.47 I Step 439 > Contest state
+2019.04.24 20:58.47 I Step 440 > Delay SOLVED_MOVE
+2019.04.24 20:58.50 I Step 441 > Select run null
+2019.04.24 20:58.50 I Step 442 > Delay DESELECT
+2019.04.24 20:58.50 I Step 443 > Select team 15: cqupc18_team15
+2019.04.24 20:58.50 I Step 444 > Delay SELECT_ROW
+2019.04.24 20:58.51 I Step 445 > Select run 4 for team 15
+2019.04.24 20:58.51 I Step 446 > Delay SELECT_RUN
+2019.04.24 20:58.52 I Step 447 > Contest state
+2019.04.24 20:58.52 I Step 448 > Delay FAILED
+2019.04.24 20:58.53 I Step 449 > Select run null
+2019.04.24 20:58.53 I Step 450 > Delay DESELECT
+2019.04.24 20:58.53 I Step 451 > Select run 6 for team 15
+2019.04.24 20:58.53 I Step 452 > Delay SELECT_RUN
+2019.04.24 20:58.54 I Step 453 > Contest state
+2019.04.24 20:58.54 I Step 454 > Delay FAILED
+2019.04.24 20:58.55 I Step 455 > Select run null
+2019.04.24 20:58.55 I Step 456 > Delay DESELECT
+2019.04.24 20:58.56 I Step 457 > Scroll 24
+2019.04.24 20:58.56 I Step 458 > Select team 10016: *cqupc18_team16
+2019.04.24 20:58.56 I Step 459 > Delay SELECT_ROW
+2019.04.24 20:58.57 I Step 460 > Select run 4 for team 10016
+2019.04.24 20:58.57 I Step 461 > Delay SELECT_RUN
+2019.04.24 20:58.58 I Step 462 > Contest state
+2019.04.24 20:58.58 I Step 463 > Delay FAILED
+2019.04.24 20:58.59 I Step 464 > Select run null
+2019.04.24 20:58.59 I Step 465 > Delay DESELECT
+2019.04.24 20:58.59 I Step 466 > Select run 7 for team 10016
+2019.04.24 20:58.59 I Step 467 > Delay SELECT_RUN
+2019.04.24 20:59.00 I Step 468 > Contest state
+2019.04.24 20:59.00 I Step 469 > Delay FAILED
+2019.04.24 20:59.01 I Step 470 > Select run null
+2019.04.24 20:59.01 I Step 471 > Delay DESELECT
+2019.04.24 20:59.01 I Step 472 > Scroll 23
+2019.04.24 20:59.01 I Step 473 > Select team 41: cqupc18_team41
+2019.04.24 20:59.01 I Step 474 > Delay SELECT_ROW
+2019.04.24 20:59.03 I Step 475 > Select run 4 for team 41
+2019.04.24 20:59.03 I Step 476 > Delay SELECT_RUN
+2019.04.24 20:59.04 I Step 477 > Contest state
+2019.04.24 20:59.04 I Step 478 > Delay FAILED
+2019.04.24 20:59.05 I Step 479 > Select run null
+2019.04.24 20:59.05 I Step 480 > Delay DESELECT
+2019.04.24 20:59.05 I Step 481 > Scroll 22
+2019.04.24 20:59.05 I Step 482 > Select team 20: cqupc18_team20
+2019.04.24 20:59.05 I Step 483 > Delay SELECT_ROW
+2019.04.24 20:59.06 I Step 484 > Select run 4 for team 20
+2019.04.24 20:59.06 I Step 485 > Delay SELECT_RUN
+2019.04.24 20:59.07 I Step 486 > Contest state
+2019.04.24 20:59.07 I Step 487 > Delay FAILED
+2019.04.24 20:59.08 I Step 488 > Select run null
+2019.04.24 20:59.08 I Step 489 > Delay DESELECT
+2019.04.24 20:59.08 I Step 490 > Scroll 21
+2019.04.24 20:59.08 I Step 491 > Select team 9: cqupc18_team9
+2019.04.24 20:59.08 I Step 492 > Delay SELECT_ROW
+2019.04.24 20:59.10 I Step 493 > Scroll 20
+2019.04.24 20:59.10 I Step 494 > Select team 13: cqupc18_team13
+2019.04.24 20:59.10 I Step 495 > Delay SELECT_ROW
+2019.04.24 20:59.11 I Step 496 > Select run 7 for team 13
+2019.04.24 20:59.11 I Step 497 > Delay SELECT_RUN
+2019.04.24 20:59.12 I Step 498 > Contest state
+2019.04.24 20:59.12 I Step 499 > Delay FAILED
+2019.04.24 20:59.13 I Step 500 > Select run null
+2019.04.24 20:59.13 I Step 501 > Delay DESELECT
+2019.04.24 20:59.14 I Step 502 > Scroll 19
+2019.04.24 20:59.14 I Step 503 > Select team 24: cqupc18_team24
+2019.04.24 20:59.14 I Step 504 > Delay SELECT_ROW
+2019.04.24 20:59.15 I Step 505 > Select run 4 for team 24
+2019.04.24 20:59.15 I Step 506 > Delay SELECT_RUN
+2019.04.24 20:59.16 I Step 507 > Contest state
+2019.04.24 20:59.16 I Step 508 > Delay FAILED
+2019.04.24 20:59.17 I Step 509 > Select run null
+2019.04.24 20:59.17 I Step 510 > Delay DESELECT
+2019.04.24 20:59.17 I Step 511 > Scroll 18
+2019.04.24 20:59.17 I Step 512 > Select team 10013: *cqupc18_team13
+2019.04.24 20:59.17 I Step 513 > Delay SELECT_ROW
+2019.04.24 20:59.19 I Step 514 > Select run 4 for team 10013
+2019.04.24 20:59.19 I Step 515 > Delay SELECT_RUN
+2019.04.24 20:59.20 I Step 516 > Contest state
+2019.04.24 20:59.20 I Step 517 > Delay SOLVED_MOVE
+2019.04.24 20:59.22 I Step 518 > Select run null
+2019.04.24 20:59.22 I Step 519 > Delay DESELECT
+2019.04.24 20:59.22 I Step 520 > Select team 43: cqupc18_team43
+2019.04.24 20:59.22 I Step 521 > Delay SELECT_ROW
+2019.04.24 20:59.24 I Step 522 > Select run 4 for team 43
+2019.04.24 20:59.24 I Step 523 > Delay SELECT_RUN
+2019.04.24 20:59.25 I Step 524 > Contest state
+2019.04.24 20:59.25 I Step 525 > Delay FAILED
+2019.04.24 20:59.26 I Step 526 > Select run null
+2019.04.24 20:59.26 I Step 527 > Delay DESELECT
+2019.04.24 20:59.26 I Step 528 > Select run 6 for team 43
+2019.04.24 20:59.26 I Step 529 > Delay SELECT_RUN
+2019.04.24 20:59.27 I Step 530 > Contest state
+2019.04.24 20:59.27 I Step 531 > Delay FAILED
+2019.04.24 20:59.28 I Step 532 > Select run null
+2019.04.24 20:59.28 I Step 533 > Delay DESELECT
+2019.04.24 20:59.28 I Step 534 > Scroll 17
+2019.04.24 20:59.28 I Step 535 > Select team 1006: *cqupc18_team6
+2019.04.24 20:59.28 I Step 536 > Delay SELECT_ROW
+2019.04.24 20:59.29 I Step 537 > Select run 4 for team 1006
+2019.04.24 20:59.29 I Step 538 > Delay SELECT_RUN
+2019.04.24 20:59.30 I Step 539 > Contest state
+2019.04.24 20:59.30 I Step 540 > Delay FAILED
+2019.04.24 20:59.31 I Step 541 > Select run null
+2019.04.24 20:59.31 I Step 542 > Delay DESELECT
+2019.04.24 20:59.31 I Step 543 > Select run 6 for team 1006
+2019.04.24 20:59.31 I Step 544 > Delay SELECT_RUN
+2019.04.24 20:59.32 I Step 545 > Contest state
+2019.04.24 20:59.32 I Step 546 > Delay SOLVED_MOVE
+2019.04.24 20:59.35 I Step 547 > Select run null
+2019.04.24 20:59.35 I Step 548 > Delay DESELECT
+2019.04.24 20:59.35 I Step 549 > Select team 1002: *cqupc18_team2
+2019.04.24 20:59.35 I Step 550 > Delay SELECT_ROW
+2019.04.24 20:59.36 I Step 551 > Select run 5 for team 1002
+2019.04.24 20:59.36 I Step 552 > Delay SELECT_RUN
+2019.04.24 20:59.37 I Step 553 > Contest state
+2019.04.24 20:59.37 I Step 554 > Delay FAILED
+2019.04.24 20:59.38 I Step 555 > Select run null
+2019.04.24 20:59.38 I Step 556 > Delay DESELECT
+2019.04.24 20:59.39 I Step 557 > Select run 7 for team 1002
+2019.04.24 20:59.39 I Step 558 > Delay SELECT_RUN
+2019.04.24 20:59.40 I Step 559 > Contest state
+2019.04.24 20:59.40 I Step 560 > Delay FAILED
+2019.04.24 20:59.40 I Step 561 > Select run null
+2019.04.24 20:59.40 I Step 562 > Delay DESELECT
+2019.04.24 20:59.41 I Step 563 > Scroll 16
+2019.04.24 20:59.41 I Step 564 > Select team 48: cqupc18_team48
+2019.04.24 20:59.41 I Step 565 > Delay SELECT_ROW
+2019.04.24 20:59.42 I Step 566 > Scroll 15
+2019.04.24 20:59.42 I Step 567 > Select team 10014: *cqupc18_team14
+2019.04.24 20:59.42 I Step 568 > Delay SELECT_ROW
+2019.04.24 20:59.44 I Step 569 > Select run 5 for team 10014
+2019.04.24 20:59.44 I Step 570 > Delay SELECT_RUN
+2019.04.24 20:59.45 I Step 571 > Contest state
+2019.04.24 20:59.45 I Step 572 > Delay FAILED
+2019.04.24 20:59.46 I Step 573 > Select run null
+2019.04.24 20:59.46 I Step 574 > Delay DESELECT
+2019.04.24 20:59.46 I Step 575 > Select run 8 for team 10014
+2019.04.24 20:59.46 I Step 576 > Delay SELECT_RUN
+2019.04.24 20:59.47 I Step 577 > Contest state
+2019.04.24 20:59.47 I Step 578 > Delay FAILED
+2019.04.24 20:59.48 I Step 579 > Select run null
+2019.04.24 20:59.48 I Step 580 > Delay DESELECT
+2019.04.24 20:59.48 I Step 581 > Scroll 14
+2019.04.24 20:59.48 I Step 582 > Select team 10013: *cqupc18_team13
+2019.04.24 20:59.48 I Step 583 > Delay SELECT_ROW
+2019.04.24 20:59.49 I Step 584 > Select run 6 for team 10013
+2019.04.24 20:59.49 I Step 585 > Delay SELECT_RUN
+2019.04.24 20:59.50 I Step 586 > Contest state
+2019.04.24 20:59.50 I Step 587 > Delay FAILED
+2019.04.24 20:59.51 I Step 588 > Select run null
+2019.04.24 20:59.51 I Step 589 > Delay DESELECT
+2019.04.24 20:59.51 I Step 590 > Scroll 13
+2019.04.24 20:59.51 I Step 591 > Select team 1005: *cqupc18_team5
+2019.04.24 20:59.51 I Step 592 > Delay SELECT_ROW
+2019.04.24 20:59.53 I Step 593 > Select run 6 for team 1005
+2019.04.24 20:59.53 I Step 594 > Delay SELECT_RUN
+2019.04.24 20:59.54 I Step 595 > Contest state
+2019.04.24 20:59.54 I Step 596 > Delay FAILED
+2019.04.24 20:59.55 I Step 597 > Select run null
+2019.04.24 20:59.55 I Step 598 > Delay DESELECT
+2019.04.24 20:59.55 I Step 599 > Scroll 12
+2019.04.24 20:59.55 I Step 600 > Select team 10015: *cqupc18_team15
+2019.04.24 20:59.55 I Step 601 > Delay SELECT_ROW
+2019.04.24 20:59.57 I Step 602 > Select run 7 for team 10015
+2019.04.24 20:59.57 I Step 603 > Delay SELECT_RUN
+2019.04.24 20:59.58 I Step 604 > Contest state
+2019.04.24 20:59.58 I Step 605 > Delay FAILED
+2019.04.24 20:59.58 I Step 606 > Select run null
+2019.04.24 20:59.58 I Step 607 > Delay DESELECT
+2019.04.24 20:59.59 I Step 608 > Scroll 11
+2019.04.24 20:59.59 I Step 609 > Select team 19: cqupc18_team19
+2019.04.24 20:59.59 I Step 610 > Delay SELECT_ROW
+2019.04.24 21:00.00 I Step 611 > Scroll 10
+2019.04.24 21:00.00 I Step 612 > Select team 1006: *cqupc18_team6
+2019.04.24 21:00.00 I Step 613 > Delay SELECT_ROW
+2019.04.24 21:00.02 I Step 614 > Select team 1006: *cqupc18_team6
+2019.04.24 21:00.02 I Step 615 > Pause 10
+2019.04.24 21:00.02 I **Paused at 10**
+2019.04.24 21:00.02 I 
+**Action: FORWARD from 10**
+2019.04.24 21:00.02 I Step 616 > Award 1
+2019.04.24 21:00.02 I Step 617 > Pause 11
+2019.04.24 21:00.02 I **Paused at 11**
+2019.04.24 21:00.02 I No image found for team 2: No image found
+2019.04.24 21:00.03 I 
+**Action: FORWARD from 11**
+2019.04.24 21:00.03 I Step 618 > Award (none)
+2019.04.24 21:00.03 I Step 619 > Pause 12
+2019.04.24 21:00.03 I **Paused at 12**
+2019.04.24 21:00.04 I 
+**Action: FORWARD from 12**
+2019.04.24 21:00.04 I Step 620 > Scroll 9
+2019.04.24 21:00.04 I Step 621 > Select team 16: cqupc18_team16
+2019.04.24 21:00.04 I Step 622 > Delay SELECT_ROW
+2019.04.24 21:00.06 I Step 623 > Select run 4 for team 16
+2019.04.24 21:00.06 I Step 624 > Delay SELECT_RUN
+2019.04.24 21:00.07 I Step 625 > Contest state
+2019.04.24 21:00.07 I Step 626 > Delay SOLVED_MOVE
+2019.04.24 21:00.09 I Step 627 > Select run null
+2019.04.24 21:00.09 I Step 628 > Delay DESELECT
+2019.04.24 21:00.09 I Step 629 > Select team 1008: *cqupc18_team8
+2019.04.24 21:00.09 I Step 630 > Delay SELECT_ROW
+2019.04.24 21:00.11 I Step 631 > Select run 2 for team 1008
+2019.04.24 21:00.11 I Step 632 > Delay SELECT_RUN
+2019.04.24 21:00.12 I Step 633 > Contest state
+2019.04.24 21:00.12 I Step 634 > Delay FAILED
+2019.04.24 21:00.12 I Step 635 > Select run null
+2019.04.24 21:00.12 I Step 636 > Delay DESELECT
+2019.04.24 21:00.13 I Step 637 > Scroll 8
+2019.04.24 21:00.13 I Step 638 > Select team 1009: *cqupc18_team9
+2019.04.24 21:00.13 I Step 639 > Delay SELECT_ROW
+2019.04.24 21:00.14 I Step 640 > Select run 2 for team 1009
+2019.04.24 21:00.14 I Step 641 > Delay SELECT_RUN
+2019.04.24 21:00.15 I Step 642 > Contest state
+2019.04.24 21:00.15 I Step 643 > Delay FAILED
+2019.04.24 21:00.16 I Step 644 > Select run null
+2019.04.24 21:00.16 I Step 645 > Delay DESELECT
+2019.04.24 21:00.16 I Step 646 > Select run 5 for team 1009
+2019.04.24 21:00.16 I Step 647 > Delay SELECT_RUN
+2019.04.24 21:00.17 I Step 648 > Contest state
+2019.04.24 21:00.17 I Step 649 > Delay FAILED
+2019.04.24 21:00.18 I Step 650 > Select run null
+2019.04.24 21:00.18 I Step 651 > Delay DESELECT
+2019.04.24 21:00.18 I Step 652 > Select run 7 for team 1009
+2019.04.24 21:00.18 I Step 653 > Delay SELECT_RUN
+2019.04.24 21:00.19 I Step 654 > Contest state
+2019.04.24 21:00.19 I Step 655 > Delay SOLVED_MOVE
+2019.04.24 21:00.22 I Step 656 > Select run null
+2019.04.24 21:00.22 I Step 657 > Delay DESELECT
+2019.04.24 21:00.22 I Step 658 > Select team 6: cqupc18_team6
+2019.04.24 21:00.22 I Step 659 > Delay SELECT_ROW
+2019.04.24 21:00.23 I Step 660 > Scroll 7
+2019.04.24 21:00.23 I Step 661 > Select team 30: cqupc18_team30
+2019.04.24 21:00.23 I Step 662 > Delay SELECT_ROW
+2019.04.24 21:00.25 I Step 663 > Select run 6 for team 30
+2019.04.24 21:00.25 I Step 664 > Delay SELECT_RUN
+2019.04.24 21:00.26 I Step 665 > Contest state
+2019.04.24 21:00.26 I Step 666 > Delay FAILED
+2019.04.24 21:00.27 I Step 667 > Select run null
+2019.04.24 21:00.27 I Step 668 > Delay DESELECT
+2019.04.24 21:00.27 I Step 669 > Scroll 6
+2019.04.24 21:00.27 I Step 670 > Select team 4: cqupc18_team4
+2019.04.24 21:00.27 I Step 671 > Delay SELECT_ROW
+2019.04.24 21:00.28 I Step 672 > Select run 2 for team 4
+2019.04.24 21:00.28 I Step 673 > Delay SELECT_RUN
+2019.04.24 21:00.29 I Step 674 > Contest state
+2019.04.24 21:00.29 I Step 675 > Delay FAILED
+2019.04.24 21:00.30 I Step 676 > Select run null
+2019.04.24 21:00.30 I Step 677 > Delay DESELECT
+2019.04.24 21:00.31 I Step 678 > Select run 5 for team 4
+2019.04.24 21:00.31 I Step 679 > Delay SELECT_RUN
+2019.04.24 21:00.32 I Step 680 > Contest state
+2019.04.24 21:00.32 I Step 681 > Delay FAILED
+2019.04.24 21:00.32 I Step 682 > Select run null
+2019.04.24 21:00.32 I Step 683 > Delay DESELECT
+2019.04.24 21:00.33 I Step 684 > Select run 7 for team 4
+2019.04.24 21:00.33 I Step 685 > Delay SELECT_RUN
+2019.04.24 21:00.34 I Step 686 > Contest state
+2019.04.24 21:00.34 I Step 687 > Delay SOLVED_MOVE
+2019.04.24 21:00.36 I Step 688 > Select run null
+2019.04.24 21:00.36 I Step 689 > Delay DESELECT
+2019.04.24 21:00.36 I Step 690 > Select team 2: cqupc18_team2
+2019.04.24 21:00.36 I Step 691 > Delay SELECT_ROW
+2019.04.24 21:00.38 I Step 692 > Select run 7 for team 2
+2019.04.24 21:00.38 I Step 693 > Delay SELECT_RUN
+2019.04.24 21:00.39 I Step 694 > Contest state
+2019.04.24 21:00.39 I Step 695 > Delay SOLVED_MOVE
+2019.04.24 21:00.41 I Step 696 > Select run null
+2019.04.24 21:00.41 I Step 697 > Delay DESELECT
+2019.04.24 21:00.41 I Step 698 > Select team 1004: *cqupc18_team4
+2019.04.24 21:00.41 I Step 699 > Delay SELECT_ROW
+2019.04.24 21:00.43 I Step 700 > Select run 5 for team 1004
+2019.04.24 21:00.43 I Step 701 > Delay SELECT_RUN
+2019.04.24 21:00.44 I Step 702 > Contest state
+2019.04.24 21:00.44 I Step 703 > Delay FAILED
+2019.04.24 21:00.44 I Step 704 > Select run null
+2019.04.24 21:00.44 I Step 705 > Delay DESELECT
+2019.04.24 21:00.45 I Step 706 > Select run 6 for team 1004
+2019.04.24 21:00.45 I Step 707 > Delay SELECT_RUN
+2019.04.24 21:00.46 I Step 708 > Contest state
+2019.04.24 21:00.46 I Step 709 > Delay FAILED
+2019.04.24 21:00.47 I Step 710 > Select run null
+2019.04.24 21:00.47 I Step 711 > Delay DESELECT
+2019.04.24 21:00.47 I Step 712 > Scroll 5
+2019.04.24 21:00.47 I Step 713 > Select team 5: cqupc18_team5
+2019.04.24 21:00.47 I Step 714 > Delay SELECT_ROW
+2019.04.24 21:00.48 I Step 715 > Select run 2 for team 5
+2019.04.24 21:00.48 I Step 716 > Delay SELECT_RUN
+2019.04.24 21:00.49 I Step 717 > Contest state
+2019.04.24 21:00.49 I Step 718 > Delay FAILED
+2019.04.24 21:00.50 I Step 719 > Select run null
+2019.04.24 21:00.50 I Step 720 > Delay DESELECT
+2019.04.24 21:00.50 I Step 721 > Select run 5 for team 5
+2019.04.24 21:00.50 I Step 722 > Delay SELECT_RUN
+2019.04.24 21:00.51 I Step 723 > Contest state
+2019.04.24 21:00.51 I Step 724 > Delay FAILED
+2019.04.24 21:00.52 I Step 725 > Select run null
+2019.04.24 21:00.52 I Step 726 > Delay DESELECT
+2019.04.24 21:00.53 I Step 727 > Select run 6 for team 5
+2019.04.24 21:00.53 I Step 728 > Delay SELECT_RUN
+2019.04.24 21:00.54 I Step 729 > Contest state
+2019.04.24 21:00.54 I Step 730 > Delay FAILED
+2019.04.24 21:00.54 I Step 731 > Select run null
+2019.04.24 21:00.54 I Step 732 > Delay DESELECT
+2019.04.24 21:00.55 I Step 733 > Scroll 4
+2019.04.24 21:00.55 I Step 734 > Select team 28: cqupc18_team28
+2019.04.24 21:00.55 I Step 735 > Delay SELECT_ROW
+2019.04.24 21:00.56 I Step 736 > Select run 6 for team 28
+2019.04.24 21:00.56 I Step 737 > Delay SELECT_RUN
+2019.04.24 21:00.57 I Step 738 > Contest state
+2019.04.24 21:00.57 I Step 739 > Delay FAILED
+2019.04.24 21:00.58 I Step 740 > Select run null
+2019.04.24 21:00.58 I Step 741 > Delay DESELECT
+2019.04.24 21:00.58 I Step 742 > Scroll 3
+2019.04.24 21:00.58 I Step 743 > Select team 7: cqupc18_team7
+2019.04.24 21:00.58 I Step 744 > Delay SELECT_ROW
+2019.04.24 21:01.00 I Step 745 > Scroll 2
+2019.04.24 21:01.00 I Step 746 > Select team 10011: *cqupc18_team11
+2019.04.24 21:01.00 I Step 747 > Delay SELECT_ROW
+2019.04.24 21:01.01 I Step 748 > Select run 1 for team 10011
+2019.04.24 21:01.01 I Step 749 > Delay SELECT_RUN
+2019.04.24 21:01.02 I Step 750 > Contest state
+2019.04.24 21:01.02 I Step 751 > Delay SOLVED_MOVE
+2019.04.24 21:01.04 I Step 752 > Select run null
+2019.04.24 21:01.04 I Step 753 > Delay DESELECT
+2019.04.24 21:01.05 I Step 754 > Select team 1: cqupc18_team1
+2019.04.24 21:01.05 I Step 755 > Delay SELECT_ROW
+2019.04.24 21:01.06 I Step 756 > Select run 1 for team 1
+2019.04.24 21:01.06 I Step 757 > Delay SELECT_RUN
+2019.04.24 21:01.07 I Step 758 > Contest state
+2019.04.24 21:01.07 I Step 759 > Delay FAILED
+2019.04.24 21:01.08 I Step 760 > Select run null
+2019.04.24 21:01.08 I Step 761 > Delay DESELECT
+2019.04.24 21:01.08 I Step 762 > Select run 2 for team 1
+2019.04.24 21:01.08 I Step 763 > Delay SELECT_RUN
+2019.04.24 21:01.09 I Step 764 > Contest state
+2019.04.24 21:01.09 I Step 765 > Delay FAILED
+2019.04.24 21:01.10 I Step 766 > Select run null
+2019.04.24 21:01.10 I Step 767 > Delay DESELECT
+2019.04.24 21:01.10 I Step 768 > Select run 5 for team 1
+2019.04.24 21:01.10 I Step 769 > Delay SELECT_RUN
+2019.04.24 21:01.11 I Step 770 > Contest state
+2019.04.24 21:01.11 I Step 771 > Delay FAILED
+2019.04.24 21:01.12 I Step 772 > Select run null
+2019.04.24 21:01.12 I Step 773 > Delay DESELECT
+2019.04.24 21:01.13 I Step 774 > Select run 7 for team 1
+2019.04.24 21:01.13 I Step 775 > Delay SELECT_RUN
+2019.04.24 21:01.14 I Step 776 > Contest state
+2019.04.24 21:01.14 I Step 777 > Delay FAILED
+2019.04.24 21:01.14 I Step 778 > Select run null
+2019.04.24 21:01.14 I Step 779 > Delay DESELECT
+2019.04.24 21:01.15 I Step 780 > Select run 8 for team 1
+2019.04.24 21:01.15 I Step 781 > Delay SELECT_RUN
+2019.04.24 21:01.16 I Step 782 > Contest state
+2019.04.24 21:01.16 I Step 783 > Delay FAILED
+2019.04.24 21:01.16 I Step 784 > Select run null
+2019.04.24 21:01.16 I Step 785 > Delay DESELECT
+2019.04.24 21:01.17 I Step 786 > Scroll 1
+2019.04.24 21:01.17 I Step 787 > Select team 16: cqupc18_team16
+2019.04.24 21:01.17 I Step 788 > Delay SELECT_ROW
+2019.04.24 21:01.18 I Step 789 > Select team 16: cqupc18_team16
+2019.04.24 21:01.18 I Step 790 > Pause 13
+2019.04.24 21:01.18 I **Paused at 13**
+2019.04.24 21:01.35 I 
+**Action: FORWARD from 13**
+2019.04.24 21:01.35 I Step 791 > Award 1
+2019.04.24 21:01.35 I Step 792 > Pause 14
+2019.04.24 21:01.35 I **Paused at 14**
+2019.04.24 21:01.35 I No image found for team 4: No image found
+2019.04.24 21:01.37 I 
+**Action: FORWARD from 14**
+2019.04.24 21:01.37 I Step 793 > Award (none)
+2019.04.24 21:01.37 I Step 794 > Pause 15
+2019.04.24 21:01.37 I **Paused at 15**
+2019.04.24 21:01.38 I 
+**Action: FORWARD from 15**
+2019.04.24 21:01.38 I Step 795 > Scroll 0
+2019.04.24 21:01.38 I Step 796 > Select team 2: cqupc18_team2
+2019.04.24 21:01.38 I Step 797 > Delay SELECT_ROW
+2019.04.24 21:01.40 I Step 798 > Select team 2: cqupc18_team2
+2019.04.24 21:01.40 I Step 799 > Pause 16
+2019.04.24 21:01.40 I **Paused at 16**
+2019.04.24 21:01.40 I 
+**Action: FORWARD from 16**
+2019.04.24 21:01.40 I Step 800 > Award 2
+2019.04.24 21:01.40 I Step 801 > Pause 17
+2019.04.24 21:01.40 I **Paused at 17**
+2019.04.24 21:01.40 I No image found for team 1009: No image found
+2019.04.24 21:01.41 I 
+**Action: FORWARD from 17**
+2019.04.24 21:01.41 I Step 802 > Award (none)
+2019.04.24 21:01.41 I Step 803 > Pause 18
+2019.04.24 21:01.41 I **Paused at 18**
+2019.04.24 21:01.43 I 
+**Action: FORWARD from 18**
+2019.04.24 21:01.43 I Step 804 > Scroll 0
+2019.04.24 21:01.43 I Step 805 > Select team 4: cqupc18_team4
+2019.04.24 21:01.43 I Step 806 > Delay SELECT_ROW
+2019.04.24 21:01.44 I Step 807 > Select team 4: cqupc18_team4
+2019.04.24 21:01.44 I Step 808 > Pause 19
+2019.04.24 21:01.44 I **Paused at 19**
+2019.04.24 21:01.45 I 
+**Action: FORWARD from 19**
+2019.04.24 21:01.45 I Step 809 > Award 1
+2019.04.24 21:01.45 I Step 810 > Pause 20
+2019.04.24 21:01.45 I **Paused at 20**
+2019.04.24 21:01.45 I No image found for team 10010: No image found
+2019.04.24 21:01.45 I 
+**Action: FORWARD from 20**
+2019.04.24 21:01.45 I Step 811 > Award (none)
+2019.04.24 21:01.45 I Step 812 > Pause 21
+2019.04.24 21:01.45 I **Paused at 21**
+2019.04.24 21:01.46 I 
+**Action: FORWARD from 21**
+2019.04.24 21:01.46 I Step 813 > Scroll 0
+2019.04.24 21:01.46 I Step 814 > Select team 1009: *cqupc18_team9
+2019.04.24 21:01.46 I Step 815 > Delay SELECT_ROW
+2019.04.24 21:01.47 I Step 816 > Select team 1009: *cqupc18_team9
+2019.04.24 21:01.47 I Step 817 > Pause 22
+2019.04.24 21:01.47 I **Paused at 22**
+2019.04.24 21:01.47 I 
+**Action: FORWARD from 22**
+2019.04.24 21:01.47 I Step 818 > Award 1
+2019.04.24 21:01.47 I Step 819 > Pause 23
+2019.04.24 21:01.47 I **Paused at 23**
+2019.04.24 21:01.48 I No image found for team 3: No image found
+2019.04.24 21:01.48 I 
+**Action: FORWARD from 23**
+2019.04.24 21:01.48 I Step 820 > Award (none)
+2019.04.24 21:01.48 I Step 821 > Pause 24
+2019.04.24 21:01.48 I **Paused at 24**
+2019.04.24 21:01.49 I 
+**Action: FORWARD from 24**
+2019.04.24 21:01.49 I Step 822 > Scroll 0
+2019.04.24 21:01.49 I Step 823 > Select team 10010: *cqupc18_team10
+2019.04.24 21:01.49 I Step 824 > Delay SELECT_ROW
+2019.04.24 21:01.50 I Step 825 > Select run 4 for team 10010
+2019.04.24 21:01.50 I Step 826 > Delay SELECT_RUN
+2019.04.24 21:01.51 I Step 827 > Contest state
+2019.04.24 21:01.51 I Step 828 > Delay FAILED
+2019.04.24 21:01.52 I Step 829 > Select run null
+2019.04.24 21:01.52 I Step 830 > Delay DESELECT
+2019.04.24 21:01.52 I Step 831 > Select team 10010: *cqupc18_team10
+2019.04.24 21:01.52 I Step 832 > Pause 25
+2019.04.24 21:01.52 I **Paused at 25**
+2019.04.24 21:01.56 I 
+**Action: FORWARD from 25**
+2019.04.24 21:01.56 I Step 833 > Award 1
+2019.04.24 21:01.56 I Step 834 > Pause 26
+2019.04.24 21:01.56 I **Paused at 26**
+2019.04.24 21:01.56 I No image found for team 10011: No image found
+2019.04.24 21:02.00 I 
+**Action: FORWARD from 26**
+2019.04.24 21:02.00 I Step 835 > Award (none)
+2019.04.24 21:02.00 I Step 836 > Pause 27
+2019.04.24 21:02.00 I **Paused at 27**
+2019.04.24 21:02.00 I 
+**Action: FORWARD from 27**
+2019.04.24 21:02.00 I Step 837 > Scroll 0
+2019.04.24 21:02.00 I Step 838 > Select team 10017: *cqupc18_team17
+2019.04.24 21:02.00 I Step 839 > Delay SELECT_ROW
+2019.04.24 21:02.02 I Step 840 > Select run 4 for team 10017
+2019.04.24 21:02.02 I Step 841 > Delay SELECT_RUN
+2019.04.24 21:02.03 I Step 842 > Contest state
+2019.04.24 21:02.03 I Step 843 > Delay SOLVED_MOVE
+2019.04.24 21:02.05 I Step 844 > Select run null
+2019.04.24 21:02.05 I Step 845 > Delay DESELECT
+2019.04.24 21:02.05 I Step 846 > Select team 10011: *cqupc18_team11
+2019.04.24 21:02.05 I Step 847 > Delay SELECT_ROW
+2019.04.24 21:02.07 I Step 848 > Select run 4 for team 10011
+2019.04.24 21:02.07 I Step 849 > Delay SELECT_RUN
+2019.04.24 21:02.08 I Step 850 > Contest state
+2019.04.24 21:02.08 I Step 851 > Delay FAILED
+2019.04.24 21:02.08 I Step 852 > Select run null
+2019.04.24 21:02.08 I Step 853 > Delay DESELECT
+2019.04.24 21:02.09 I Step 854 > Select run 5 for team 10011
+2019.04.24 21:02.09 I Step 855 > Delay SELECT_RUN
+2019.04.24 21:02.10 I Step 856 > Contest state
+2019.04.24 21:02.10 I Step 857 > Delay SOLVED_MOVE
+2019.04.24 21:02.12 I Step 858 > Select run null
+2019.04.24 21:02.12 I Step 859 > Delay DESELECT
+2019.04.24 21:02.12 I Step 860 > Select team 3: cqupc18_team3
+2019.04.24 21:02.12 I Step 861 > Delay SELECT_ROW
+2019.04.24 21:02.14 I Step 862 > Select run 6 for team 3
+2019.04.24 21:02.14 I Step 863 > Delay SELECT_RUN
+2019.04.24 21:02.15 I Step 864 > Contest state
+2019.04.24 21:02.15 I Step 865 > Delay FAILED
+2019.04.24 21:02.16 I Step 866 > Select run null
+2019.04.24 21:02.16 I Step 867 > Delay DESELECT
+2019.04.24 21:02.16 I Step 868 > Select team 3: cqupc18_team3
+2019.04.24 21:02.16 I Step 869 > Pause 28
+2019.04.24 21:02.16 I **Paused at 28**
+2019.04.24 21:02.16 I 
+**Action: FORWARD from 28**
+2019.04.24 21:02.16 I Step 870 > Award 1
+2019.04.24 21:02.16 I Step 871 > Pause 29
+2019.04.24 21:02.16 I **Paused at 29**
+2019.04.24 21:02.16 I No image found for team 1001: No image found
+2019.04.24 21:02.17 I 
+**Action: FORWARD from 29**
+2019.04.24 21:02.17 I Step 872 > Award (none)
+2019.04.24 21:02.17 I Step 873 > Pause 30
+2019.04.24 21:02.17 I **Paused at 30**
+2019.04.24 21:02.17 I 
+**Action: FORWARD from 30**
+2019.04.24 21:02.17 I Step 874 > Scroll 0
+2019.04.24 21:02.17 I Step 875 > Select team 10017: *cqupc18_team17
+2019.04.24 21:02.17 I Step 876 > Delay SELECT_ROW
+2019.04.24 21:02.19 I Step 877 > Select run 7 for team 10017
+2019.04.24 21:02.19 I Step 878 > Delay SELECT_RUN
+2019.04.24 21:02.20 I Step 879 > Contest state
+2019.04.24 21:02.20 I Step 880 > Delay SOLVED_MOVE
+2019.04.24 21:02.22 I Step 881 > Select run null
+2019.04.24 21:02.22 I Step 882 > Delay DESELECT
+2019.04.24 21:02.22 I Step 883 > Select team 10011: *cqupc18_team11
+2019.04.24 21:02.22 I Step 884 > Delay SELECT_ROW
+2019.04.24 21:02.24 I Step 885 > Select team 10011: *cqupc18_team11
+2019.04.24 21:02.24 I Step 886 > Pause 31
+2019.04.24 21:02.24 I **Paused at 31**
+2019.04.24 21:02.24 I 
+**Action: FORWARD from 31**
+2019.04.24 21:02.24 I Step 887 > Award 2
+2019.04.24 21:02.24 I Step 888 > Pause 32
+2019.04.24 21:02.24 I **Paused at 32**
+2019.04.24 21:02.24 I No image found for team 10017: No image found
+2019.04.24 21:02.25 I 
+**Action: FORWARD from 32**
+2019.04.24 21:02.25 I Step 889 > Award (none)
+2019.04.24 21:02.25 I Step 890 > Pause 33
+2019.04.24 21:02.25 I **Paused at 33**
+2019.04.24 21:02.25 I 
+**Action: FORWARD from 33**
+2019.04.24 21:02.25 I Step 891 > Scroll 0
+2019.04.24 21:02.25 I Step 892 > Select team 1001: *cqupc18_team1
+2019.04.24 21:02.25 I Step 893 > Delay SELECT_ROW
+2019.04.24 21:02.27 I Step 894 > Select run 2 for team 1001
+2019.04.24 21:02.27 I Step 895 > Delay SELECT_RUN
+2019.04.24 21:02.28 I Step 896 > Contest state
+2019.04.24 21:02.28 I Step 897 > Delay FAILED
+2019.04.24 21:02.29 I Step 898 > Select run null
+2019.04.24 21:02.29 I Step 899 > Delay DESELECT
+2019.04.24 21:02.29 I Step 900 > Select team 1001: *cqupc18_team1
+2019.04.24 21:02.29 I Step 901 > Pause 34
+2019.04.24 21:02.29 I **Paused at 34**
+2019.04.24 21:02.29 I 
+**Action: FORWARD from 34**
+2019.04.24 21:02.29 I Step 902 > Award 1
+2019.04.24 21:02.29 I Step 903 > Pause 35
+2019.04.24 21:02.29 I **Paused at 35**
+2019.04.24 21:02.29 I No image found for team 10012: No image found
+2019.04.24 21:02.30 I 
+**Action: FORWARD from 35**
+2019.04.24 21:02.30 I Step 904 > Award (none)
+2019.04.24 21:02.30 I Step 905 > Pause 36
+2019.04.24 21:02.30 I **Paused at 36**
+2019.04.24 21:02.30 I 
+**Action: FORWARD from 36**
+2019.04.24 21:02.30 I Step 906 > Scroll 0
+2019.04.24 21:02.30 I Step 907 > Select team 10012: *cqupc18_team12
+2019.04.24 21:02.30 I Step 908 > Delay SELECT_ROW
+2019.04.24 21:02.32 I Step 909 > Select run 2 for team 10012
+2019.04.24 21:02.32 I Step 910 > Delay SELECT_RUN
+2019.04.24 21:02.33 I Step 911 > Contest state
+2019.04.24 21:02.33 I Step 912 > Delay FAILED
+2019.04.24 21:02.34 I Step 913 > Select run null
+2019.04.24 21:02.34 I Step 914 > Delay DESELECT
+2019.04.24 21:02.34 I Step 915 > Select run 4 for team 10012
+2019.04.24 21:02.34 I Step 916 > Delay SELECT_RUN
+2019.04.24 21:02.35 I Step 917 > Contest state
+2019.04.24 21:02.35 I Step 918 > Delay SOLVED_MOVE
+2019.04.24 21:02.37 I Step 919 > Select run null
+2019.04.24 21:02.37 I Step 920 > Delay DESELECT
+2019.04.24 21:02.37 I Step 921 > Select team 10017: *cqupc18_team17
+2019.04.24 21:02.37 I Step 922 > Delay SELECT_ROW
+2019.04.24 21:02.39 I Step 923 > Select team 10017: *cqupc18_team17
+2019.04.24 21:02.39 I Step 924 > Pause 37
+2019.04.24 21:02.39 I **Paused at 37**
+2019.04.24 21:02.39 I 
+**Action: FORWARD from 37**
+2019.04.24 21:02.39 I Step 925 > Award 2
+2019.04.24 21:02.39 I Step 926 > Pause 38
+2019.04.24 21:02.39 I **Paused at 38**
+2019.04.24 21:02.39 I No image found for team 10018: No image found
+2019.04.24 21:02.40 I 
+**Action: FORWARD from 38**
+2019.04.24 21:02.40 I Step 927 > Award (none)
+2019.04.24 21:02.40 I Step 928 > Pause 39
+2019.04.24 21:02.40 I **Paused at 39**
+2019.04.24 21:02.40 I 
+**Action: FORWARD from 39**
+2019.04.24 21:02.40 I Step 929 > Scroll 0
+2019.04.24 21:02.40 I Step 930 > Select team 10012: *cqupc18_team12
+2019.04.24 21:02.40 I Step 931 > Delay SELECT_ROW
+2019.04.24 21:02.42 I Step 932 > Select run 6 for team 10012
+2019.04.24 21:02.42 I Step 933 > Delay SELECT_RUN
+2019.04.24 21:02.43 I Step 934 > Contest state
+2019.04.24 21:02.43 I Step 935 > Delay FAILED
+2019.04.24 21:02.44 I Step 936 > Select run null
+2019.04.24 21:02.44 I Step 937 > Delay DESELECT
+2019.04.24 21:02.44 I Step 938 > Select team 10012: *cqupc18_team12
+2019.04.24 21:02.44 I Step 939 > Pause 40
+2019.04.24 21:02.44 I **Paused at 40**
+2019.04.24 21:02.44 I 
+**Action: FORWARD from 40**
+2019.04.24 21:02.44 I Step 940 > Award 1
+2019.04.24 21:02.44 I Step 941 > Pause 41
+2019.04.24 21:02.44 I **Paused at 41**
+2019.04.24 21:02.44 I No image found for team 10019: No image found
+2019.04.24 21:02.45 I 
+**Action: FORWARD from 41**
+2019.04.24 21:02.45 I Step 942 > Award (none)
+2019.04.24 21:02.45 I Step 943 > Pause 42
+2019.04.24 21:02.45 I **Paused at 42**
+2019.04.24 21:02.52 I 
+**Action: FORWARD from 42**
+2019.04.24 21:02.53 I Step 944 > Scroll 0
+2019.04.24 21:02.53 I Step 945 > Select team 10018: *cqupc18_team18
+2019.04.24 21:02.53 I Step 946 > Delay SELECT_ROW
+2019.04.24 21:02.54 I Step 947 > Select team 10018: *cqupc18_team18
+2019.04.24 21:02.54 I Step 948 > Pause 43
+2019.04.24 21:02.54 I **Paused at 43**
+2019.04.24 21:02.54 I 
+**Action: FORWARD from 43**
+2019.04.24 21:02.54 I Step 949 > Award 1
+2019.04.24 21:02.54 I Step 950 > Pause 44
+2019.04.24 21:02.54 I **Paused at 44**
+2019.04.24 21:02.54 I 
+**Action: FORWARD from 44**
+2019.04.24 21:02.54 I Step 951 > Award (none)
+2019.04.24 21:02.54 I Step 952 > Pause 45
+2019.04.24 21:02.54 I **Paused at 45**
+2019.04.24 21:02.55 I 
+**Action: FORWARD from 45**
+2019.04.24 21:02.55 I Step 953 > Scroll 0
+2019.04.24 21:02.55 I Step 954 > Select team 10019: *cqupc18_team19
+2019.04.24 21:02.55 I Step 955 > Delay SELECT_ROW
+2019.04.24 21:02.56 I Step 956 > Select team 10019: *cqupc18_team19
+2019.04.24 21:02.56 I Step 957 > Pause 46
+2019.04.24 21:02.56 I **Paused at 46**
+2019.04.24 21:03.00 I 
+**Action: FORWARD from 46**
+2019.04.24 21:03.00 I Step 958 > Award 4
+2019.04.24 21:03.00 I Step 959 > Pause 47
+2019.04.24 21:03.00 I **Paused at 47**
+2019.04.24 21:03.00 I 
+**Action: FORWARD from 47**
+2019.04.24 21:03.00 I Step 960 > Award (none)
+2019.04.24 21:03.00 I Step 961 > Pause 48
+2019.04.24 21:03.00 I **Paused at 48**
+2019.04.24 21:03.01 I 
+**Action: FORWARD from 48**
+2019.04.24 21:03.01 I Step 962 > Select team null
+2019.04.24 21:03.01 I Step 963 > Pause 49
+2019.04.24 21:03.01 I **Paused at 49**
+2019.04.24 21:03.02 I 
+**Action: FORWARD from 49**
+2019.04.24 21:03.02 I **Paused at 49**

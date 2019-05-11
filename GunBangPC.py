@@ -13,9 +13,9 @@ import logging
 from NameToId import NameToId
 
 chromePath = './chromedriver'
-url = 'http://acm.cqu.edu.cn/contest_show.php?cid=287#status'
+url = 'http://acm.cqu.edu.cn/contest_show.php?cid=243#status'
 arrans=[]
-statimestr='2019-04-28 14:00:00'
+statimestr='2018-05-27 13:00:00'
 statime=0
 logging.basicConfig(filename='GBPC.log',level='DEBUG')
 

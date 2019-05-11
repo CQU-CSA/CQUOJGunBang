@@ -12,7 +12,7 @@ import sys
 from NameToId import NameToId
 
 chromePath = './chromedriver'
-url = 'http://acm.cqu.edu.cn/contest_show.php?cid=287#standing'
+url = 'http://acm.cqu.edu.cn/contest_show.php?cid=243#standing'
 
 
 driver = webdriver.Chrome(chromePath)

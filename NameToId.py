@@ -1,5 +1,5 @@
 def NameToId(ss):
-    if ss[0]=='*':
-        return ss.replace('*cqupc19_','100')
+    if ss[7]=='w':
+        return ss.replace('cqupc19w','100')
     else:
-        return ss.replace('cqupc19_','')
+        return ss.replace('cqupc19f','')

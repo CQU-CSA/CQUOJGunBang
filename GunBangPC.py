@@ -1,6 +1,7 @@
 #python 3.7
 # -*- coding: UTF-8 -*-
 
+
 import re
 import time
 import datetime
@@ -13,9 +14,9 @@ import logging
 from NameToId import NameToId
 
 chromePath = './chromedriver'
-url = 'http://acm.cqu.edu.cn/contest_show.php?cid=243#status'
+url = 'http://acm.cqu.edu.cn/contest_show.php?cid=293#status'
 arrans=[]
-statimestr='2018-05-27 13:00:00'
+statimestr='2019-05-12 13:20:00'
 statime=0
 logging.basicConfig(filename='GBPC.log',level='DEBUG')
 
@@ -46,10 +47,10 @@ login=login.find_element_by_tag_name('a')
 login.click()
 time.sleep(0.5)
 username = driver.find_element_by_id('username')
-username.send_keys('cqupc19_149')
+username.send_keys('cqupc19f55')
 time.sleep(0.5)
 password = driver.find_element_by_id('password')
-password.send_keys('AULHPT93')
+password.send_keys('MNcH7d3h')
 time.sleep(0.5)
 login=driver.find_element_by_id('logindialog')
 login=login.find_element_by_name('login')

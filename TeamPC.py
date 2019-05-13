@@ -12,7 +12,7 @@ import sys
 from NameToId import NameToId
 
 chromePath = './chromedriver'
-url = 'http://acm.cqu.edu.cn/contest_show.php?cid=243#standing'
+url = 'http://acm.cqu.edu.cn/contest_show.php?cid=293#standing'
 
 
 driver = webdriver.Chrome(chromePath)
@@ -31,10 +31,10 @@ login=login.find_element_by_tag_name('a')
 login.click()
 time.sleep(0.5)
 username = driver.find_element_by_id('username')
-username.send_keys('cqupc19_149')
+username.send_keys('cqupc19f55')
 time.sleep(0.5)
 password = driver.find_element_by_id('password')
-password.send_keys('AULHPT93')
+password.send_keys('MNcH7d3h')
 time.sleep(0.5)
 login=driver.find_element_by_id('logindialog')
 login=login.find_element_by_name('login')
